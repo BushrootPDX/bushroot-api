@@ -1,0 +1,36 @@
+{
+  "name": "bushroot-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BushrootPDX/bushroot-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BushrootPDX/bushroot-api/issues"
+  },
+  "homepage": "https://github.com/BushrootPDX/bushroot-api#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^3.0.0",
+    "eslint": "^4.6.1",
+    "mocha": "^3.5.3",
+    "nodemon": "^1.12.0"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "jsonwebtoken-promisified": "^1.0.3",
+    "mongoose": "^4.11.11",
+    "morgan": "^1.8.2",
+    "superagent": "^3.6.0"
+  }
+}
