@@ -7,7 +7,8 @@ describe('auth', () => {
     before(db.drop);
 
     const user = {
-        email: 'user',
+        name: 'user',
+        email: 'user@mail.com',
         password: 'abc'
     };
 
@@ -34,8 +35,6 @@ describe('auth', () => {
         it('signup requires password', () => {
             return badRequest('/api/auth/signup', { email: 'abc' }, 400, 'both email and password are required');
         });
-
-        let token = '';
 
         it('signup', () => {
             return request 

@@ -5,6 +5,7 @@ describe('user model', () => {
 
     it('validates with required fields', () => {
         const reggie = new User({
+            name: 'reggie',
             email: 'reggie@plants.plants',
             hash: 'asdf'
         });
