@@ -48,7 +48,25 @@ describe('auth', () => {
             return request
                 .post('/api/auth/signin')
                 .send(user)
-                .then(res => assert.ok(res.body.token))
+                .then(res => assert.ok(res.body.token));
+        });
+
+        it('signin with bad password fails', () => {
+            const badUser = {
+                email: 'user',
+                password: '123'
+            };
+
+            request
+                .post('/api/auth/signin')
+                .send(badUser)
+                .then(
+                    () => {throw new Error('status should not be ok');},
+                    res => {
+                        assert.equal(res.status, 401);
+                        assert.equal(res.response.body.error, 'Invalid Login');
+                    }
+                );
         });
     });
 });
