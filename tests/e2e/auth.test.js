@@ -28,11 +28,11 @@ describe('auth', () => {
                 );
         
         it('signup requires email', () => {
-            return badRequest('/api/auth/signup', { password: 'abc' }, 400, 'email and password must be supplied');
+            return badRequest('/api/auth/signup', { password: 'abc' }, 400, 'both email and password are required');
         });
 
         it('signup requires password', () => {
-            return badRequest('/api/auth/signup', { email: 'abc' }, 400, 'email and password must be supplied');
+            return badRequest('/api/auth/signup', { email: 'abc' }, 400, 'both email and password are required');
         });
 
         let token = '';
