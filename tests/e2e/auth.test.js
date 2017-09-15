@@ -36,11 +36,16 @@ describe('auth', () => {
             return badRequest('/api/auth/signup', { email: 'abc' }, 400, 'both email and password are required');
         });
 
+        let token = '';
+
         it('signup', () => {
             return request 
                 .post('/api/auth/signup')
                 .send(user)
-                .then(res => assert.ok(token = res.body.token));
+                .then(res => {
+                    assert.ok(token = res.body.token);
+                    assert.ok(token = res.body.userId);
+                });
         });
 
         it('signin', () => {
