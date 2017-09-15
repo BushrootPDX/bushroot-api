@@ -1,5 +1,5 @@
 const http = require('http');
-require('.env').config();
+require('dotenv').config();
 const app = require('./lib/app');
 const connect = require('./lib/connect');
 connect('mongodb://localhost:27017/bushroot'); // convert to process.env.mongodb_uri
