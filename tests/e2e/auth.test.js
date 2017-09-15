@@ -57,7 +57,7 @@ describe('auth', () => {
                 password: '123'
             };
 
-            request
+            return request
                 .post('/api/auth/signin')
                 .send(badUser)
                 .then(
@@ -66,6 +66,16 @@ describe('auth', () => {
                         assert.equal(res.status, 401);
                         assert.equal(res.response.body.error, 'Invalid Login');
                     }
+                );
+        });
+
+        it('token is invalid', () => {
+            return request
+                .get('/api/auth/verify')
+                .set('Authorization', 'bad token')
+                .then(
+                    () => { throw new Error('success response not expected');},
+                    res => { assert.equal(res.status, 401); }
                 );
         });
     });
