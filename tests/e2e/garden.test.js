@@ -16,7 +16,7 @@ let garden = {
     name: 'East Garden',
     width: 120,
     height: 144,
-    plot: [{}]
+    plot: []
 };
 
 let tomatoPlant = {
@@ -42,7 +42,7 @@ describe('garden', () => {
         .post('/api/gardens')
         .send(garden)
         .then(({ body }) => {
-            assert.ok(body._id_);
+            assert.ok(body._id);
             assert.equal(garden.name, body.name);
             garden = body;
         })
