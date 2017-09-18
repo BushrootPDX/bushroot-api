@@ -1,5 +1,7 @@
 const connection = require('mongoose').connection;
 const request = require('./request');
+const Plant = require('../../../lib/models/plant');
+const PlantInstance = require('../../../lib/models/plantInstance');
 
 
 module.exports = {
@@ -20,5 +22,13 @@ module.exports = {
         return request.post('/auth/signin')
             .send(user)
             .then(res => res.body);
+    },
+    savePlant(plant) {
+        let newPlant = new Plant(plant);
+        newPlant.save();
+    },
+    savePlantInstance(plantInstance) {
+        let newPlantInstance = new PlantInstance(plantInstance);
+        newPlantInstance.save();
     }
 };
