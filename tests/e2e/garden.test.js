@@ -8,7 +8,7 @@ const request = chai.request(app);
 
 
 const { assert } = require('chai');
-const Plant = require('../../lib/models/garden');
+const Garden = require('../../lib/models/garden');
 const PlantInstance = require('../../lib/models/plantInstance');
 
 
@@ -47,4 +47,11 @@ describe('garden', () => {
             garden = body;
         })
     );
+
+    it('adds a plant to the plot', () => {
+        Garden.addToPlot(tomatoPlant._id, 2, 4)
+            .then(res => {
+                return assert.deepEqual(res._id, tomatoPlant._id);
+            });
+    });
 });
