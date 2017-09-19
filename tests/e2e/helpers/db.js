@@ -25,10 +25,10 @@ module.exports = {
     },
     savePlant(plant) {
         let newPlant = new Plant(plant);
-        newPlant.save();
+        return newPlant.save();
     },
     savePlantInstance(plantInstance) {
         let newPlantInstance = new PlantInstance(plantInstance);
-        newPlantInstance.save();
+        return newPlantInstance.save();
     }
 };
