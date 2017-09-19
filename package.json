@@ -1,5 +1,5 @@
 {
-  "name": "bushroot-api",
+  "name": "server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BushrootPDX/bushroot-api.git"
+    "url": "git+https://github.com/BushrootPDX/server.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BushrootPDX/bushroot-api/issues"
+    "url": "https://github.com/BushrootPDX/server/issues"
   },
-  "homepage": "https://github.com/BushrootPDX/bushroot-api#readme",
+  "homepage": "https://github.com/BushrootPDX/server#readme",
   "devDependencies": {
     "chai": "^4.1.2",
     "chai-http": "^3.0.0",
