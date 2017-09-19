@@ -1,0 +1,3182 @@
+[
+    {
+        "name": "Basil",
+        "scientific_name": "Ocimum basilicum",
+        "description": "Fragrant and delicious herb with tender green leaves. Great in just about anything - salad, sauces, meat marinades, and even popcorn.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Plant seeds under 1cm of soil in starting pots. Keep the plants indoors or transplant them outdoors in late spring.",
+        "spread": 10,
+        "height": 60,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/54a9e05833316500020f0000.jpg?1420419158"
+    },
+    {
+        "name": "Tulsi",
+        "scientific_name": "Ocimum tenuiflorum",
+        "description": "Ocimum tenuiflorum, also known as Ocimum sanctum, holy basil, or tulasī, is an aromatic plant in the family Lamiaceae which is native to the Indian Subcontinent and widespread as a cultivated plant throughout the Southeast Asian tropics. It is an erect, many branched subshrub, 30–60 cm tall with hairy stems and simple opposite green or purple leaves that are strongly scented. Leaves have petioles and are ovate, up to 5 cm long, usually slightly toothed. The flowers are purplish in elongate racemes in close whorls. The two main morphotypes cultivated in India and Nepal are green-leaved (Sri or Lakshmi tulasi) and purple-leaved (Krishna tulasi).\r\n\r\nTulasi is cultivated for religious and medicinal purposes, and for its essential oil. It is widely known across the Indian Subcontinent as a medicinal plant and an herbal tea, commonly used in Ayurveda, and has an important role within the Vaishnavite tradition of Hinduism, in which devotees perform worship involving holy basil plants or leaves.\r\n\r\nThe variety of Ocimum tenuiflorum used in Thai cuisine is referred to as Thai holy basil (Thai language: กะเพรา kaphrao); it is not to be confused with Thai basil, which is a variety of Ocimum basilicum.",
+        "sun_requirements": "",
+        "sowing_method": "",
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551af8de3830380003610100.jpg?1427830997"
+    },
+    {
+        "name": "basin saltbush",
+        "scientific_name": "Atriplex tridentata",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "basin bladderpod",
+        "scientific_name": "Lesquerella cinerea",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Uinta Basin hookless cactus",
+        "scientific_name": "Sclerocactus glaucus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "klamath basin milkvetch",
+        "scientific_name": "astragalus californicus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "great basin brome",
+        "scientific_name": "bromus polyanthus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "great basin brome",
+        "scientific_name": "bromus polyanthus var. paniculatus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "great basin brome",
+        "scientific_name": "bromus polyanthus var. polyanthus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Great Basin fishhook cactus",
+        "scientific_name": "Sclerocactus pubispinus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Great Basin springbeauty",
+        "scientific_name": "Claytonia umbellata",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "uinta basin cryptantha",
+        "scientific_name": "cryptantha breviflora",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Great Basin Desert buckwheat",
+        "scientific_name": "Eriogonum desertorum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "great basin springbeauty",
+        "scientific_name": "claytonia umbellata",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Uinta Basin waxfruit",
+        "scientific_name": "Glaucocarpum suffrutescens",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Klamath Basin milkvetch",
+        "scientific_name": "Astragalus californicus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Great Basin lupine",
+        "scientific_name": "Lupinus alpestris",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Heirloom Tomatoes",
+        "scientific_name": "Solanum lycopersicum",
+        "description": "Heirloom tomatoes are open-pollinated, non-hybrid cultivars that have usually been passed down through several generations because of valued characteristics like flavor and appearance. Heirlooms are sweeter and more richly flavored than conventional tomatoes. They come in a wide variety of shapes, sizes, and colors, each with it's own unique flavor. They are often more disease-resistant, but have a shorter shelf life than conventional tomatoes. Some cultivars can be prone to cracking. Heirlooms often have a higher water content than conventional tomatoes and are often eaten raw with freshly ground salt and pepper, fresh basil, olive oil, and mozzarella.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors and transplant seedlings outside after hardening off",
+        "spread": 100,
+        "height": 120,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551af6153830380003600100.jpg?1427830287"
+    },
+    {
+        "name": "desert centaury",
+        "scientific_name": "centaurium exaltatum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "onion",
+        "scientific_name": "allium cepa",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "wilkes cryptantha",
+        "scientific_name": "cryptantha ambigua",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Potato",
+        "scientific_name": "Solanum tuberosum",
+        "description": "A starchy vegetable that originated in South America, the potato is now a worldwide staple. The leaves and fruit are usually poisonous and the stem tuber is the only edible part. The potato can be cooked in many ways, brewed into alcohol, and also used as the basis for creating bioplastics.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Place seed potatoes or pieces of potato with eyes in the daylight. When the shoots emerge, cover with soil, straw or mulch",
+        "spread": 90,
+        "height": 25,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551dbd5a3732390003600100.jpg?1428012376"
+    },
+    {
+        "name": "Mother-in-law's tongue",
+        "scientific_name": "Sansevieria trifasciata",
+        "description": "It is an evergreen perennial plant forming dense stands, spreading by way of its creeping rhizome, which is sometimes above ground, sometimes underground. Its stiff leaves grow vertically from a basal rosette. Mature leaves are dark green with light gray-green cross-banding and usually range between 70–90 centimetres (28–35 in) long and 5–6 centimetres (2.0–2.4 in) wide. \nSource: https://en.wikipedia.org/wiki/Sansevieria_trifasciata\n\nThe specific epithet trifasciata means \"three bundles\".",
+        "sun_requirements": "Full Shade",
+        "sowing_method": null,
+        "spread": null,
+        "height": 90,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59158d73b142660004001e40.jpg?1494584690"
+    },
+    {
+        "name": "sword bean",
+        "scientific_name": "canavalia gladiata",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "amberique-bean",
+        "scientific_name": "Strophostyles helvola",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "mahogany bean",
+        "scientific_name": "afzelia quanzensis",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Wax Bean",
+        "scientific_name": "Phaseolus vulgaris",
+        "description": "Wax beans are a type of snap bean with vibrant yellow, patterned, or dark purple skin and a slightly waxier texture. They can be eaten whole with pod and seeds and have a mild and fresh taste. Wax beans come in pole and bush varieties. Like other legumes, wax beans benefit from an inoculant.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors, thin to 30cm when seedlings are 4cm tall",
+        "spread": 7,
+        "height": 40,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/5935dcef113c95000400023c.jpg?1496702187"
+    },
+    {
+        "name": "Fava Bean",
+        "scientific_name": "Vicia faba",
+        "description": "The fava, or broad bean, is a species of flowering plant in the vetch and pea family Fabaceae. Unlike most beans, fava beans thrive in cooler weather and do not require trellising. They should be planted in early spring as soon as the soil can be worked. The broad, leathery pods contain 3-8 beans and grow on stiff stems that can reach heights of 1.8m.  Fava are planted for their edible beans, or as a cover crop to reduce winter erosion and increase nitrogen in the soil. Inoculants can increase yield and nitrogen production. The pods are commonly harvested while young, when they are about 15cm long. Fava beans are eaten in a myriad of ways: raw in salads, grilled, roasted, fried, pureed, and more.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors",
+        "spread": 12,
+        "height": 120,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59252c5000d55700040000b5.jpg?1495608394"
+    },
+    {
+        "name": "Lima Bean",
+        "scientific_name": "Phaseolus lunatus",
+        "description": "Lima beans have bush and pole varieties. Bush types produce more quickly and create smaller beans. Pole types can grow to 3m high and produce larger seeds. Like all legumes, lima beans can benefit from inoculants. Lima beans are shelled and cooked before eating.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors after soil is at least 24°C, thin to 30cm apart when seedlings are 5cm tall",
+        "spread": 30,
+        "height": 40,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/5930590c0652e10004000002.jpg?1496340743"
+    },
+    {
+        "name": "indian bean",
+        "scientific_name": "catalpa",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "bush bean",
+        "scientific_name": "acacia maconochiena",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Green Beans",
+        "scientific_name": "",
+        "description": "",
+        "sun_requirements": "",
+        "sowing_method": "",
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551dbf243732390003650100.jpg?1428012834"
+    },
+    {
+        "name": "jack bean",
+        "scientific_name": "canavalia ensiformis",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Price's potato-bean",
+        "scientific_name": "Apios priceana",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "slick-seed fuzzy-bean",
+        "scientific_name": "Strophostyles leiosperma",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "prince's potato-bean",
+        "scientific_name": "apios priceana",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "indian bean tree",
+        "scientific_name": "catalpa bignonioides",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "annual woolly-bean",
+        "scientific_name": "Strophostyles helvola",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "trailing fuzzy-bean",
+        "scientific_name": "Strophostyles helvola",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "trailing wild bean",
+        "scientific_name": "Strophostyles helvola",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Purple Pod Bean",
+        "scientific_name": "Phaseolus vulgaris",
+        "description": "Purple pod beans come in bush and pole varieties. They can be eaten raw or cooked, but often turn green when cooked. Like other legumes, they benefit from being treated with an inoculant.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors, thin to 30cm when plants are 4cm tall",
+        "spread": 30,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/5931ffc27dc11b00040000c7.jpg?1496448955"
+    },
+    {
+        "name": "Blue Lake Bean",
+        "scientific_name": "Phaseolus vulgaris var. nanus",
+        "description": "Blue Lake is an upright bush bean with medium-thick green pods that are plump, tasty, and best when harvested at 15cm long. The plant has a high yield, long season, and benefits from inoculant.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors or out. Transplant seedlings after hardening off.",
+        "spread": 25,
+        "height": 55,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/5928635df9f0b200040000b7.jpg?1495819099"
+    },
+    {
+        "name": "st.john's bread",
+        "scientific_name": "ceratonia",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "apios",
+        "scientific_name": "apios americana",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "moreton bay chestnut",
+        "scientific_name": "castanospermum australe",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "coral bead plant",
+        "scientific_name": "abrus precatorius ssp. africanus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "groundnut vine",
+        "scientific_name": "apios tuberosa",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "weather plant",
+        "scientific_name": "abrus precatorius",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "rowan-berry",
+        "scientific_name": "Sorbus aucuparia",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "wooly berry",
+        "scientific_name": "Vaccinium hirsutum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "indigo berry",
+        "scientific_name": "Passiflora suberosa",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Himalayan berry",
+        "scientific_name": "Rubus bifrons",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "roughfruit berry",
+        "scientific_name": "Rubus lasiococcus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "bristle berry",
+        "scientific_name": "Rubus notatus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "saskatoon service-berry",
+        "scientific_name": "amelanchier alnifolia var. alnifolia",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Tumamoc globe-berry",
+        "scientific_name": "Tumamoca macdougalii",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Cape Gooseberry",
+        "scientific_name": "Physalis peruviana",
+        "description": "Cape Gooseberries, or Physalis, are a plant species in the genus Physalis and family Solanaceae. They have slightly velvety heart-shaped leaves and produce smooth bright yellow or orange berries wrapped in a papery husk or calyx. They are originally from Peru and are related to tomatillos and husk/ground cherries. Cape Gooseberries grow well without fertilizer and in sandy to poor soils, but they need to be protected from wind. The fruit is sweet with a mildly tart flavor, tastes a bit like pineapple, and can be eaten raw, made into jams, or baked into pies. Unripe fruits are poisonous, harvest when the husk has lost color and dried out.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off.",
+        "spread": 50,
+        "height": 90,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/593f4e8e83cfbb0004000007.jpg?1497321092"
+    },
+    {
+        "name": "bokdrol",
+        "scientific_name": "canthium inerme",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "bietou",
+        "scientific_name": "chrysanthemoides monilifera",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "boneseed",
+        "scientific_name": "chrysanthemoides monilifera ssp. rotundata",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "canadian dwarf cornel",
+        "scientific_name": "cornus canadensis",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "ferris' milkvetch",
+        "scientific_name": "astragalus tener var. ferrisiae",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "ferris' sandwort",
+        "scientific_name": "arenaria macradenia ssp. ferrisiae",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "sierra false bindweed",
+        "scientific_name": "calystegia malacophylla var. berryi",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Blueberries",
+        "scientific_name": "Vaccinium sect. Cyanococcus",
+        "description": "Perennial flowering plants with sweet, indigo-colored berries. Blueberry plants are usually erect, prostrate shrubs that range in height from 10cm to 4m high, depending on the cultivar.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Plant plants into soil or pots.",
+        "spread": 240,
+        "height": 240,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551dc8023732390003760100.jpg?1428015100"
+    },
+    {
+        "name": "Strawberry",
+        "scientific_name": "Fragaria × ananassa",
+        "description": "The strawberry is a bright red fruit that grows Although it is often called a berry, it is actually an aggregate accessory fruit. The fleshy part of the fruit is not the plant's ovaries but rather the receptacles that hold the ovaries. Each \"seed\" on the outside of the fruit is one of the ovaries of the flower, with a seed inside it. Strawberries are perennial plants that grow best in raised rows. They are grown as annuals for commercial production.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Bare root plants or plugs",
+        "spread": 30,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551dc6103732390003730100.jpg?1428014606"
+    },
+    {
+        "name": "Common Walnut (Okkerneut)",
+        "scientific_name": "Juglans regia",
+        "description": "Usage:\nFruit/Nuts ,Edible Fruit/Berries/Capsules/Seeds ,Edible Syrup/Sap/Oil ,Traditional Beauty Product ,Traditional Medicine ,Traditional Food",
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/591da1ae84b25a00040000b2.jpg?1495114156"
+    },
+    {
+        "name": "Black Currant",
+        "scientific_name": "Ribes nigrum",
+        "description": "Black currants are perennial woody shrubs that produce clusters of glossy black, sweet-tart, piquant berries that are smaller than blueberries and very high in Vitamin C. They prefer damp, fertile soils, and are winter hardy. The berries can be eaten raw, but are often cooked into sweet and savory dishes, or made into jams, syrups, juice, and wine.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Cuttings",
+        "spread": 150,
+        "height": 150,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/593b4c4fa2f58400040000c1.jpg?1497058382"
+    },
+    {
+        "name": "Blackberries",
+        "scientific_name": "Rubus fruticosus",
+        "description": "Deeply colored, sweet, clustered berries. The blackberry plant is a perennial plant that bears biennial stems or canes. The plant often has thorns, though some cultivars do not. Most varieties have greater berry yields from the second year on. In peak season, expect to harvest twice a week.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Transplant canes into soil or pot",
+        "spread": 100,
+        "height": 175,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551dc7793732390003750100.jpg?1428014965"
+    },
+    {
+        "name": "Asparagus",
+        "scientific_name": "Asparagus officinalis",
+        "description": "Perennial spring vegetable often sown from crowns. The vegetable has a mild flavor with earthy undertones. When mature and reproducing, the plant creates tall, stout stems with feathery foliage and small red berries.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Transplant crowns outside, or start seeds indoors",
+        "spread": 30,
+        "height": 140,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551dc1e837323900036a0100.jpg?1428013539"
+    },
+    {
+        "name": "Beale's Barberry",
+        "scientific_name": "Mahonia bealei, Berberis bealei",
+        "description": "Shrubs , evergreen, 1-2 m. Stems monomorphic, without short axillary shoots. Bark of 2d-year stems tan, glabrous. Bud scales 11-13 mm, persistent. Spines absent. Leaves 5-9-foliolate; petioles 2-8 cm. Leaflet blades thick and rigid; surfaces abaxially smooth, shiny, adaxially dull, gray-green; terminal leaflet stalked, blade 6.5-9.3 × 4-7 cm, 1.3-2.3 times as long as wide; lateral leaflet blades ovate or lance-ovate, 4-6-veined from base, base truncate or weakly cordate, margins plane, toothed, with 2-7 teeth 3-8 mm tipped with spines to 1.4-4 × 0.3-0.6 mm, apex acuminate. Inflorescences racemose, dense, 70-150-flowered, 5-17 cm; bracteoles ± corky, apex rounded to acute. Berries dark blue, glaucous, oblong-ovoid, 9-12 mm, juicy, solid.\n\nFlowering fall-winter (Dec-Mar). Open woodlands and shrublands; 100-500 m; introduced; Ala., Ga., N.C., Va.; native, Asia (China).\n\nBerberis bealei is commonly cultivated; although it rarely escapes, it is locally naturalized in the southeastern United States. It is resistant to infection by Puccinia graminis .",
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/55b6b5356465380003880200.jpg?1438037284"
+    },
+    {
+        "name": "Caper",
+        "scientific_name": "Capparis spinosa",
+        "description": "The caper is a shrubby perennial plant native to the Mediterranean that is cultivated for it's edible flower buds, or capers. It has rounded, fleshy leaves and large white to pink flowers. Capers require semi-arid climates. They will die in temperatures below -6 ºC. The flower buds are harvested and pickled and used as seasoning in Mediterranean cuisine. If the caper bud is not picked, it flowers and produces a caper berry, which can also be pickled and eaten. Capparis spinosa is most commonly grown, but other Capparis species can also be cultivated for their buds or berries. Capers can be planted from fresh seeds gathered from ripe fruit. If using dried seeds, cold stratify before planting to aid germination and awaken seeds from dormancy. Capers can also be propagated from cuttings, but plants grown from cuttings are more susceptible to drought in the first few years.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed",
+        "spread": null,
+        "height": 90,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59b99a9edb28dd0004000006.jpg?1505335951"
+    },
+    {
+        "name": "Watermelon",
+        "scientific_name": "Citrullus lanatus",
+        "description": "The watermelon is a melon variety that produces round or oblong fruits with thick skin and sweet, watery flesh. It is a special kind of berry with a hard rind and no internal division, botanically known as a \"pepo.\" The rind is usually dark green with light-green stripes. The flesh can be red or yellow. Like other melons and members of the Cucurbitaceae family, the watermelon grows on sprawling vines.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed into soil or peat pots (and transplant pots outside after hardening off)",
+        "spread": 180,
+        "height": 50,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/591e1e22dfdcf50004000001.jpg?1495146011"
+    },
+    {
+        "name": "Carrot",
+        "scientific_name": "Daucus carota",
+        "description": "The carrot is a root vegetable. It is usually orange in color, but some cultivars are purple, black, red, white, and yellow. The most commonly eaten part of the plant is the taproot, but the greens are sometimes eaten as well. The leaves appear first, and the taproot grows more slowly beneath the soil. Fast-growing cultivars mature within three months of sowing the seed. Slower-maturing cultivars are harvested four months after sowing.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct Seed, thin to 3cm apart when seedlings are 8cm high",
+        "spread": 3,
+        "height": 10,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c312395865650004000000.jpg?1489179191"
+    },
+    {
+        "name": "daucus carota subsp. sativus",
+        "scientific_name": "carrot",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Carrot, Scarlet Nantes",
+        "scientific_name": "Daucus carota",
+        "description": "Slim, sweet, 6'7\" almost coreless orange roots are delicious raw or cooked.\n\nhttp://burpee.com/more/57143",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Sow in deep, well-worked, stone-free soil after danger of heavy frost. Sow seeds thinly in rows 30cm apart. Cover with fine soil, firm lightly and keep evenly moist. Do not transplant, as crooked roots may result.",
+        "spread": 30,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/5924bd8e00d5570004000000.jpg?1495580044"
+    },
+    {
+        "name": "carrot buckwheat",
+        "scientific_name": "Eriogonum darrovii",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "carrot weed",
+        "scientific_name": "ambrosia artemisiifolia",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "toothpick carrot",
+        "scientific_name": "ammi visnaga",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Purple Carrot",
+        "scientific_name": "Daucus carota var. sativus",
+        "description": "Purple carrots are a carrot cultivar that have purple skin and orange to purple flesh. They are a little less sweet than orange carrots and sometimes have a lower yield. They can be cooked the same way as carrots.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors, thin to 3cm apart when seedlings are 7cm high",
+        "spread": 3,
+        "height": 15,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c9be24f577a40004000164.jpg?1489616409"
+    },
+    {
+        "name": "Red Carrot",
+        "scientific_name": "Daucus carota var. sativus",
+        "description": "Red carrots are a carrot cultivar with red skin and orange to red flesh. Some varieties become more red once they are cooked. Red Carrots can sometimes have a lower yield than orange carrots, but are high in lycopene.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors, thin to 3cm apart when seedlings are 7cm high",
+        "spread": 3,
+        "height": 15,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59b825b6ce7bff0004000003.jpg?1505240497"
+    },
+    {
+        "name": "White Carrot",
+        "scientific_name": "Daucus carota var. sativus",
+        "description": "White carrots are a carrot cultivar that have pale yellow to white skin. They sometimes have a lower yield than orange carrots. They have a mild flavor that is less earthy than other carrot varieties. They are grown and cooked the same way as standard orange carrots.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors, thin to 3cm apart when seedlings are 7cm high",
+        "spread": 3,
+        "height": 15,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59b82753ce7bff0004000004.jpg?1505240911"
+    },
+    {
+        "name": "Yellow Carrot",
+        "scientific_name": "Daucus carota var. sativus",
+        "description": "Yellow carrots are a carrot cultivar that have yellow skin and flesh. They are grown and cooked the same way as orange carrots, but can sometimes have a lower yield.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors, thin to 3cm apart when seedlings are 7cm high",
+        "spread": 3,
+        "height": 15,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59b828cdce7bff0004000005.jpg?1505241287"
+    },
+    {
+        "name": "Carrot, Pusa Asita",
+        "scientific_name": null,
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": "Surface, thin to 3cm apart when seedlings are 7cm high",
+        "spread": 3,
+        "height": 15,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "bifora",
+        "scientific_name": "bifora testiculata",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "arracacha",
+        "scientific_name": "arracacia xanthorrhiza",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "parrot pitcherplant",
+        "scientific_name": "Sarracenia psittacina",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "cardot's campylium moss",
+        "scientific_name": "campylium cardotii",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Parsnip",
+        "scientific_name": "Pastinaca sativa",
+        "description": "Parsnips are a root vegetable closely related to carrots and celery. They look like thick white carrots with larger, slightly rough foliage. Parsnips taste similar to carrots, except that they are sweeter, especially when cooked. Like carrots, they can be broiled, pureed, roasted, steamed, and baked into cakes. They become even sweeter in flavor after winter frosts. Before cane sugar arrived in Europe, they were used as a sweetener. The stems and foliage of the parsnip can cause a skin rash - wear long sleeves, pants, and gloves when weeding and harvesting.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors, thin seedlings to 5cm apart",
+        "spread": 5,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c9bc91f577a40004000160.jpg?1489616014"
+    },
+    {
+        "name": "Garlic Chives",
+        "scientific_name": "Allium tuberosum",
+        "description": "Garlic chives are a member of the Allium family and related to garlic and onions. They taste more like garlic than chives. Their long, thin, strap-shaped leaves grow from a small, elongated bulb. Their bulbous roots are rhizomes and the plant grows in slowly expanding clumps. Garlic chives are sometimes grown for ornamental purposes, and also have medicinal uses. The plant's leaves, stalks, and immature, unopened flower buds are used as seasoning in salads, spreads, flavored vinegars, and other dishes. They make great companion plants because they aid in pollination and can deter pests and disease. Their strong scent confuses the carrot root fly, which can normally smell carrots from up to a mile away.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct sow outdoors or sow indoors and transplant seedlings after hardening off",
+        "spread": 8,
+        "height": 45,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c3c3db7b12f80004000017.jpg?1489224666"
+    },
+    {
+        "name": "Salsify",
+        "scientific_name": "Tragopogon porrifolius",
+        "description": "Salsify, or white salsify, is a perennial plant grown as an annual for it's edible root and leaves. It does well in cool weather and is cultivated similarly to carrots and parsnips. It is similar to Black Salsify, but they are in different genera. Both plants are grown for their edible roots and cultivated like carrots and parsnips. Salsify's leaves look like a clump of coarse grass with starry pink to purple flowers. The greens and flowers can be used in salads. Flowers should be dead-headed to prevent the plant from becoming invasive. Salsify is less hearty than Black Salsify. It requires sandy loam soil to grow straight roots and can be grown in containers. The taproot has dirty-beige skin and resembles a large white carrot. It has an oyster-like taste that some consider more subtle than Black Salsify. It can be eaten boiled or mashed; skin is inedible and should be removed. Plants can stay in the ground until just before the soil freezes and roots can be stored in a root cellar through the winter. Take extra care not to break the roots while harvesting - damaged roots have a much shorter shelf life.",
+        "sun_requirements": "Partial Sun",
+        "sowing_method": "Direct seed outdoors, thin to 7cm",
+        "spread": null,
+        "height": 120,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Mint",
+        "scientific_name": "Mentha spicata / Mentha viridis",
+        "description": "Mint is a perennial herb with a distinctive taste. It's stems are square-shaped and it has pink, purple, or white flowers. Peppermint, ginger mint, and large apple mint are hybrids of mint. Mint is often grown in pots to prevent it from overtaking the garden with its invasive, spreading rhizome root structure. It's leaves are most aromatic before the plant flowers and can be used fresh, dried, or frozen. Mint's strongly scented leaves confuse the pests of carrots, tomatoes, alliums, and brassicas, and deter flea beetles.",
+        "sun_requirements": "Partial Sun",
+        "sowing_method": "Direct seed indoors or outside",
+        "spread": 35,
+        "height": 60,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58cee0a6aea93d0004000001.jpg?1489952931"
+    },
+    {
+        "name": "Black Salsify",
+        "scientific_name": "Scorzonera hispanica",
+        "description": "Black Salsify is a perennial member of the genus Scorzonera in the Asteraceae family that is grown as an annual. It is native to Southern Europe and the Near East. It is similar to Salsify, but they are in different genera. Both plants are grown for their edible roots and cultivated like carrots and parsnips. Black Salsify's leaves look like a clump of coarse grass with yellow ray flowers. Greens can be used in salads. The thin taproot grows up to 1 meter long and 2cm in diameter. It has a striking black skin that is inedible and removed after boiling. The white flesh tastes like a cross between oysters and asparagus. Roots can be cooked into soup, mashed, or roasted and used as a coffee substitute. Black Salsify is a cool weather crop - it's roots become stringy at temperatures above 29C. Harvest when roots are 30cm long, taking care not to break the roots. Roots can be left in the ground until a hard frost, and then stored in a root cellar through the winter.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors, thin to 15cm",
+        "spread": 15,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "German Chamomile",
+        "scientific_name": "Matricaria chamomilla, Matricaria recutita",
+        "description": "German, or Common Chamomile is an annual plant with daisy-like flowers. It is in the Daisy family (Asteraceae) along with Roman Chamomile (Chamaemelum nobile) and the two plants have similar apple-scented flowers, but they are in separate genera. German Chamomile is taller than Roman Chamomile, growing to heights of 60cm, and produces larger flowers that are 3-5cm in diameter. It has hairless stems and is more compact than it's Roman counterpart. It's essential oil is dark blue, whereas Roman Chamomile's essential oil is pale yellow to clear. German Chamomile is the most popular source of herbal chamomile and is used to calm and nourish the nervous system and support good digestion. Chamomile attracts beneficial insects like hoverflies (which eat aphids and mites) and ladybugs. Chamomile tea can be sprayed on seedlings to prevent damping-off, a fungal infection that can kill young plants.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed, do not cover. Seeds need light to germinate.",
+        "spread": 30,
+        "height": 60,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/57e899e6b0704e0003000135.jpg?1474861538"
+    },
+    {
+        "name": "chamomile",
+        "scientific_name": "chamaemelum nobile",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "austrian chamomile",
+        "scientific_name": "anthemis austriaca",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "dyer's chamomile",
+        "scientific_name": "anthemis tinctoria",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Roman Chamomile",
+        "scientific_name": "Chamaemelum nobile",
+        "description": "Roman or English Chamomile is a perennial plant with daisy-like flowers. It is in the Daisy family (Asteraceae) along with German/Common Chamomile (Matricaria chamomilla) and the two plants have similar apple-scented flowers, but they are in separate genera. Roman Chamomile is shorter than German Chamomile, growing to heights of 10-30cm, and produces smaller flowers that are 1-3cm in diameter. It has hairy stems and is more sprawling and bushy than German Chamomile. It can be used as a ground cover. It's essential oil is pale yellow to clear whereas German Chamomile's essential oil is dark blue. Chamomile attracts pollinators and beneficial insects like ladybugs and hoverflies (which eat aphids and mites).",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed shallowly - seeds require light for germination",
+        "spread": 30,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59b9a620db28dd0004000008.jpg?1505338889"
+    },
+    {
+        "name": "kale",
+        "scientific_name": "brassica oleracea var. acephala",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Kale",
+        "scientific_name": "brassica oleracea (acephala)",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/55b6b79b64653800038e0200.jpg?1438037910"
+    },
+    {
+        "name": "Sea Kale",
+        "scientific_name": "Crambe maritima",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/55b6b63b64653800038d0200.jpg?1438037556"
+    },
+    {
+        "name": "Dinosaur Kale",
+        "scientific_name": "Cavolo Nero",
+        "description": "Long thick dark leaves",
+        "sun_requirements": "full sun",
+        "sowing_method": "",
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "chinese kale",
+        "scientific_name": "brassica alboglabra",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "rape kale",
+        "scientific_name": "brassica napus var. pabularia",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "chinese kale",
+        "scientific_name": "brassica oleracea",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "curly kale",
+        "scientific_name": "brassica oleracea var. fimbriata",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "sea kale",
+        "scientific_name": "crambe maritima",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Lacinato Kale",
+        "scientific_name": "Brassica oleracea",
+        "description": "Lacinato kale has very dark green or blue-green leaves that are heavily crinkled or blistered (savoyed) instead of curled. The leaves have a rich, tender taste and are softer than curly green kales. Can be harvested at baby or adult stage. Delicious raw or cooked. Light frosts increase the sweetness of the leaves.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors or transplant seedlings",
+        "spread": 45,
+        "height": 75,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/591b51121faea70004000007.jpg?1494962443"
+    },
+    {
+        "name": "Red Russian Kale",
+        "scientific_name": "Brassica napus pabularia",
+        "description": "Red Russian Kale is a type of kale with flat, toothed green leaves and purple stems. It can be harvested at the baby or adult stage. When harvested as a baby, it is often added to salad mixes. It is usually eaten raw or lightly cooked.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors (and transplant after hardening off seedlings) or outdoors",
+        "spread": 45,
+        "height": 65,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "turnip",
+        "scientific_name": "brassica rapa",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "hale's corydalis",
+        "scientific_name": "corydalis halei",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "kalm's brome",
+        "scientific_name": "bromus kalmii",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "kalm's st. john's-wort",
+        "scientific_name": "Hypericum kalmianum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Kalm's St. Johnswort",
+        "scientific_name": "Hypericum kalmianum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "sweetgale",
+        "scientific_name": "Myrica gale",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Russian thistle",
+        "scientific_name": "Salsola kali",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "guinea arrowroot",
+        "scientific_name": "calathea allouia",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "african wormwood",
+        "scientific_name": "artemisia afra",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Cabbage",
+        "scientific_name": "Brassica oleracea",
+        "description": "Cabbage is a member of the Brassica family and related to kale, broccoli, brussels sprouts, and cauliflower. It's dense, layered heads grow on stalks and are surrounded by looser outer leaves. It's leaves can be green, white, or purple in color, and smooth or crinkly in texture. Depending on the variety, the head can be round, oblong, or flat. Cabbage prefers cooler temperatures and is best planted in the spring or fall.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off.",
+        "spread": 60,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/5928732ef9f0b200040000c0.jpg?1495823146"
+    },
+    {
+        "name": "Lavender",
+        "scientific_name": "Lavandula angustifolia",
+        "description": "Lavender has an easily recognizable scent and purple to blue flowers that grow in whorls. Leaf shape varies across the genus. It is a natural repellant of moths, slugs, and deer, and a great companion for any plant that suffers from these pests (such as kale, cabbage, and other members of the Brassicaceae family).",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors",
+        "spread": 30,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/57e814c57cf5dc0003000268.jpg?1474827459"
+    },
+    {
+        "name": "Collard Greens",
+        "scientific_name": "Brassica oleracea",
+        "description": "Collards are a loose-leafed cultivar of Brassica oleracea. They are members of the Acephala Group of the species, which includes kale and spring greens. Collards have big, thick, slightly bitter leaves that are high in vitamins and minerals. They are a staple of Southern Cuisine and can be eaten boiled, sautéed, baked, or raw.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors or out. Transplant seedlings outside after hardening off.",
+        "spread": 15,
+        "height": 90,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59285f71f9f0b200040000b6.jpg?1495818093"
+    },
+    {
+        "name": "Almond",
+        "scientific_name": "Prunus dulcis",
+        "description": "The almond is a deciduous tree that grows well in Mediterranean climates. It has white to pale flowers that appear before the leaves in early spring. Trees begin producing fruit within 2 to 4 years of being transplanted.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Bare root tree",
+        "spread": 460,
+        "height": 400,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/593882406d9b0f00040000c7.jpg?1496875579"
+    },
+    {
+        "name": "Honeydew",
+        "scientific_name": "Cucumis melo",
+        "description": "Honeydew melons have a round to slightly oval shape. Like other melons, they grow on vines. Their sweet, tender flesh is pale green or orange in color, and the smooth peel ranges from greenish to yellow.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed",
+        "spread": 90,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c4e863e570880004000003.jpg?1489299554"
+    },
+    {
+        "name": "Lettuce",
+        "scientific_name": "Lactuca Sativa",
+        "description": "Lettuce is a cool weather crop and high temperatures will impede germination and/or cause the plant to bolt (go to seed quickly). Some hybrid cultivars have been bred to be more heat-resistant.",
+        "sun_requirements": "Partial Sun",
+        "sowing_method": "Direct seed outdoors, thin to 20cm when seedlings are 3cm tall",
+        "spread": 20,
+        "height": 20,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551dcbb23732390003790100.jpg?1428016048"
+    },
+    {
+        "name": "Lettuce, Igloo",
+        "scientific_name": "Lactuca sativa L.",
+        "description": "Heads form quickly yet hold incredibly well in the garden as summer temperatures rise. \nhttp://burpee.com/more/52188",
+        "sun_requirements": null,
+        "sowing_method": "Sow in average soil in full sun in early spring for first crop, in late summer for fall crop. Sow thinly in rows 30cm appart and cover with 0.6cm of fine soil. Firm lightly and keep evenly moist. Seedlings emerge in 7-10 days. Sow every two weeks to extend harvest.",
+        "spread": 30,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/5924c78700d5570004000002.jpg?1495582597"
+    },
+    {
+        "name": "Canada lettuce",
+        "scientific_name": "Laportea canadensis",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "miner's lettuce",
+        "scientific_name": "Claytonia perfoliata",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Lamb's Lettuce",
+        "scientific_name": "",
+        "description": "",
+        "sun_requirements": "",
+        "sowing_method": "",
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551dcbf137323900037a0100.jpg?1428016110"
+    },
+    {
+        "name": "miner's lettuce",
+        "scientific_name": "claytonia perfoliata",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "wild lettuce",
+        "scientific_name": "brassica integrifolia",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Iceberg Lettuce",
+        "scientific_name": "Lactuca sativa",
+        "description": "Iceberg lettuce grows in firm, round, glossy green heads. The interior is white and has a juicy, mild flavor. It is most often used in salads. Lettuce is cold-hardy. High temperatures will impede germination and/or cause the plant to bolt (go to seed quickly). Some hybrid cultivars have been bred to be more heat-resistant.",
+        "sun_requirements": "Partial Sun",
+        "sowing_method": "Direct seed",
+        "spread": 25,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/591b39441faea70004000005.jpg?1494956351"
+    },
+    {
+        "name": "Looseleaf Lettuce",
+        "scientific_name": "Lactuca sativa",
+        "description": "Looseleaf lettuces are fast growing and don't form tight heads. This makes them ideal for growing as salad mix. Seed mixes often include a variety of lettuce types that have different colors and textures. Looseleaf lettuce is harvested by cutting the outer leaves or by cutting the entire plant in a \"cut-and-come-again\" method. Lettuce is generally a cool-weather crop, but some varieties are heat-tolerant.",
+        "sun_requirements": "Partial Sun",
+        "sowing_method": "Direct seed outdoors, thin to 15cm apart when seedlings are 3cm tall",
+        "spread": 15,
+        "height": 25,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/5931df087dc11b00040000bb.jpg?1496440575"
+    },
+    {
+        "name": "Buttercrunch Lettuce",
+        "scientific_name": "Lactuca Sativa",
+        "description": "Buttercrunch (also known as Butterhead, Bibb, and Boston lettuce) is a lettuce cultivar that produces tightly clustered leaves with a buttery flavor and smooth texture. Lettuce is a cool weather crop and high temperatures will impede germination and/or cause the plant to bolt (go to seed quickly). Some hybrid cultivars have been bred to be more heat-resistant.",
+        "sun_requirements": "Partial Sun",
+        "sowing_method": "Direct seed outdoors, thin to 20cm when seedlings are 3cm tall",
+        "spread": 20,
+        "height": 20,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58dc12561cc3100004000000.jpg?1490817622"
+    },
+    {
+        "name": "Romaine Lettuce",
+        "scientific_name": "Lactuca sativa",
+        "description": "Romaine is a variety of lettuce that grows into a dense, tall head. It's leaves are light to bright green and have firm ribs down their centers. It is more tolerant of heat than most lettuces.",
+        "sun_requirements": "Partial Sun",
+        "sowing_method": "Direct seed indoors or outside.",
+        "spread": 20,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58e32fa24bca6f00040000b5.jpg?1491283873"
+    },
+    {
+        "name": "Lettuce 'Freedom Mix'",
+        "scientific_name": "Lactuca sativa",
+        "description": "Variety selected by Frank Morton during the 'Hell's Half-Acre lettuce trial'.",
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Black Seeded Simpson Lettuce",
+        "scientific_name": "Lactuca sativa L.",
+        "description": "Black-Seeded Simpson lettuce is a popular ruffled leaf lettuce with tender leaves that have outstanding flavor. Lettuce is a good source of vitamin A and potassium, as well as a minor source for several other vitamins and nutrients. Scientific research into the genetic modification of lettuce is ongoing, with over 85 field trials taking place between 1992 and 2005 in the European Union and United States to test modifications allowing greater herbicide tolerance, greater resistance to insects and fungi and slower bolting patterns. Thankfully, however, genetically modified lettuce is not currently used in commercial agriculture.\n\nSource: http://en.wikipedia.org/wiki/Lettuce",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Water Down",
+        "spread": 15,
+        "height": 18,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/5846b58be77bdc0004000461.jpg?1481029003"
+    },
+    {
+        "name": "Fountain miner's lettuce",
+        "scientific_name": "Montia fontana",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "water miner's lettuce",
+        "scientific_name": "Montia chamissoi",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "miner's lettuce (winter purslane)",
+        "scientific_name": "claytonia perfoliata",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Onion",
+        "scientific_name": "Allium cepa",
+        "description": ".",
+        "sun_requirements": "",
+        "sowing_method": "",
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/56857be71083470003000000.jpg?1451588582"
+    },
+    {
+        "name": "onion",
+        "scientific_name": "allium cepa",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "onion",
+        "scientific_name": "allium sp.",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "tolm's onion",
+        "scientific_name": "allium tolmiei",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Onion, White Lisbon",
+        "scientific_name": "Allium fistulosum",
+        "description": "Classic white scallions are sown from early spring to midsummer. Harvest after pencil size. \n\nhttp://burpee.com/more/53743",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Sow in average soil in full sun after danger of frost in spring. In frost-free areas, sow in fall. Sow thinly 30cm apart and cover with 1cm of fine soil. Firm lightly and keep evenly moist. Seedlings emerge in 7-14 days.",
+        "spread": 30,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/5928f74bf55b2400040000bc.jpg?1495856966"
+    },
+    {
+        "name": "pearl onion",
+        "scientific_name": "allium ampeloprasum (sectivum)",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "twinleaf onion",
+        "scientific_name": "allium anceps",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "darkred onion",
+        "scientific_name": "allium atrorubens var. cristatum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "bolander's onion",
+        "scientific_name": "allium bolanderi",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "bolander's onion",
+        "scientific_name": "allium bolanderi var. bolanderi",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "bolander's onion",
+        "scientific_name": "allium bolanderi var. mirabile",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "bolander's onion",
+        "scientific_name": "allium bolanderi var. stenanthum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "brandegee's onion",
+        "scientific_name": "allium brandegeei",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "burlew's onion",
+        "scientific_name": "allium burlewii",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "dusky onion",
+        "scientific_name": "allium campanulatum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "tree onion",
+        "scientific_name": "allium canadense",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "wild onion",
+        "scientific_name": "allium canadense",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "common onion",
+        "scientific_name": "allium cepa",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "potato onion",
+        "scientific_name": "allium cepa (aggregatum)",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "topset onion",
+        "scientific_name": "allium cepa var. aggregatum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "onions (bulb)",
+        "scientific_name": "allium cepa var. cepa",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "nodding onion",
+        "scientific_name": "allium cernuum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "columbian onion",
+        "scientific_name": "allium columbianum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "cascade onion",
+        "scientific_name": "allium cratericola",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "olympic onion",
+        "scientific_name": "allium crenulatum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Peas",
+        "scientific_name": "Pisum sativum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/576b8edefe8d75000300043c.jpg?1466666716"
+    },
+    {
+        "name": "thinleaf pea",
+        "scientific_name": "Lathyrus holochlorus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "congo pea",
+        "scientific_name": "cajanus cajan",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "drypark pea",
+        "scientific_name": "Lathyrus bijugatus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "red pea",
+        "scientific_name": "Lathyrus cicera",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "perennial pea",
+        "scientific_name": "Lathyrus latifolius",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "grassleaf pea",
+        "scientific_name": "Lathyrus graminifolius",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "everlasting-pea",
+        "scientific_name": "Lathyrus latifolius",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "tiny pea",
+        "scientific_name": "Lathyrus pusillus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "beach pea",
+        "scientific_name": "Lathyrus japonicus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "angled pea",
+        "scientific_name": "Lathyrus angulatus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "yellow pea",
+        "scientific_name": "Lathyrus aphaca",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Bonneville pea",
+        "scientific_name": "Lathyrus brachycalyx",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Caley pea",
+        "scientific_name": "Lathyrus hirsutus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Nevada pea",
+        "scientific_name": "Lathyrus lanszwertii",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Sierra pea",
+        "scientific_name": "Lathyrus nevadensis",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "cream pea",
+        "scientific_name": "Lathyrus ochroleucus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "marsh pea",
+        "scientific_name": "Lathyrus palustris",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "fewflower pea",
+        "scientific_name": "Lathyrus pauciflorus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "manystem pea",
+        "scientific_name": "Lathyrus polymorphus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Oregon pea",
+        "scientific_name": "Lathyrus polyphyllus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "leafy pea",
+        "scientific_name": "Lathyrus polyphyllus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "meadow pea",
+        "scientific_name": "Lathyrus pratensis",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "stiff pea",
+        "scientific_name": "Lathyrus rigidus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "white pea",
+        "scientific_name": "Lathyrus sativus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Pepper",
+        "scientific_name": "Capsicum",
+        "description": "Capiscum is a genus of flowering plants in the nightshade family Solanaceae that produces peppers. The Capiscum genus contains 20-27 species of peppers which vary in color, shape, size, and heat. 5 species are domesticated. Most peppers are green when unripe and change color as the fruit matures. The fruit of most species contains capsaicin, which gives hot peppers their spiciness. Bell peppers (Capsicum annuum) are an exception: they do not contain capsaicin due to a recessive gene, and are therefore not spicy. The Scoville scale is used to measure the relative heat of peppers. Bell peppers have a rating of 0-25 Scoville Heat Units (SHU), jalapenos are between 2,500-10,000 SHU. All peppers, regardless of species, prefer a long, warm growing season and well-drained soil high in organic matter. Seeds can be started indoors 8-10 weeks before hardening off and transplanting. In cooler climates, it can be preferable to grow peppers in containers indoors to extend the growing season and prevent frost from killing plants. Peppers have an upright growing habit and can benefit from staking to help the plant support the fruits.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 50,
+        "height": 0,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59b9b55fdb28dd000400000a.jpg?1505342804"
+    },
+    {
+        "name": "Chilli Pepper",
+        "scientific_name": "Capsicum",
+        "description": "http://en.wikipedia.org/wiki/Capsicum_annuum",
+        "sun_requirements": "",
+        "sowing_method": "",
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/54ffd15f31343500038b0200.jpg?1426051420"
+    },
+    {
+        "name": "pepper",
+        "scientific_name": "capsicum sp.",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "moth pepper",
+        "scientific_name": "Piper blattarum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "pepper root",
+        "scientific_name": "cardamine concatenata",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Jamaican pepper",
+        "scientific_name": "Piper hispidum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Guyanese pepper",
+        "scientific_name": "Piper glabrescens",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "marigold pepper",
+        "scientific_name": "Piper marginatum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Black Pepper",
+        "scientific_name": "Piper nigrum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/54b4b68161306500020d0000.jpg?1421129343"
+    },
+    {
+        "name": "sweet pepper",
+        "scientific_name": "capsicum annuum (grossum)",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "poorman's pepper",
+        "scientific_name": "Lepidium virginicum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Adjuma pepper",
+        "scientific_name": "Capsicum chinense",
+        "description": "Adjuma, Aji Umba, or Adjoema peppers are a variety of Capsicum chinense chili pepper originally from Suriname. The peppers are similar in heat, aroma, and flavor to Habanero, but have a boxier shape. The peppers ripen from lime-green to red or yellow on the plant. They are often mistaken for Habanero or Scotch Bonnets.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, harden off seedlings before transplanting outside",
+        "spread": 45,
+        "height": 75,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Aleppo Pepper",
+        "scientific_name": "Capsicum annuum",
+        "description": "Aleppo, or Halaby, pepper is a variety of Capsicum annuum used as a spice in Middle Eastern and Mediterranean cuisine. The plant's pods are semi-dried, de-seeded, and then coarsely ground. The resulting spice is slightly oilier and milder than red pepper flakes and has notes of raisin.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off.",
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "padron peppers",
+        "scientific_name": null,
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Diablito Pepper",
+        "scientific_name": "Capsicum annuum",
+        "description": "The Diablito Pepper is a hot Thai pepper that produces 5cm long conical fruit that are red when ripe. It has a rating of 5,000 to 30,000 Scoville Units.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 40,
+        "height": 60,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Ghost Pepper",
+        "scientific_name": "Capsicum chinense",
+        "description": "The Ghost, or Bhut jolokiai, pepper is a hybrid of Capsicum chinense and Capsicum frutescens native to India. It is one of the world's hottest chili peppers, with a rating of more than 1 million Scoville heat units. Ripe peppers are 60-85mm long and can have red, yellow, orange, or chocolate skin that is very thin compared to other peppers. The red fruit variety can be smooth or rough and wrinkled. Ghost Peppers are extremely variable because they are interspecific hybrids - there is a wide range in fruit sizes and production per plant. Ghost peppers are used fresh and dried as a food and spice. The plant requires consistent heat and moisture and a growing season of at least three months of temperatures over 21°C. They can be grown in containers indoors to maintain these conditions.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 45,
+        "height": 120,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Shishito Peppers",
+        "scientific_name": "Capsicum annuum",
+        "description": "Shishito peppers are mild, thin-walled, slightly sweet peppers native to East Asia. They are small, slender peppers, usually 5-10cm long, with slightly wrinkled flesh. They have a Scoville rating of 50-200, but about 1 in 10 peppers can be significantly spicy. Shishitos are usually harvested while still green and unripe, but they can be left on the plant to ripen and turn orange and red. Shishitos are popular in Japan and Korea and are often grilled, roasted, sautéed, or fried into tempura.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 50,
+        "height": 75,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59b0bead07a74000040000cd.jpg?1504755370"
+    },
+    {
+        "name": "Bell Pepper",
+        "scientific_name": "Capsicum annuum",
+        "description": "The bell pepper is a cultivar group of the species Capsicum annuum. Bell pepper cultivars produce fruits in colors including red, yellow, orange, green, brown, white, and purple. The fruit is often mildly sweet, because this specific cultivar does not produce capsaicin, the chemical responsible for other peppers' spiciness.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Sow seeds indoors, harden plants off before transplanting outside. Transplant when soil is warm.",
+        "spread": 45,
+        "height": 50,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/54b4b04f6130650002070000.jpg?1421127757"
+    },
+    {
+        "name": "Cayenne Pepper",
+        "scientific_name": "Capsicum annuum",
+        "description": "Cayenne peppers are a cultivar of Capsicum annuum. They are members of the nightshade family, Solanaceae, and related to tomatoes and eggplant. The upright plants produce long, thin, red fruit that can be up to 25cm long. Cayenne peppers have a Scoville rating of 30,000 to 50,000 units and are slightly hotter than jalapenos. They are generally dried and ground to make cayenne spice, but they can also be used whole or in a thin, vinegar-based sauce.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 45,
+        "height": 90,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59aedf2e8afacc00040000c4.jpg?1504632618"
+    },
+    {
+        "name": "Poblano Peppers",
+        "scientific_name": "Capsicum annuum",
+        "description": "Poblanos are mild chili peppers native to Mexico. The plants produce medium to large peppers that are 7-15cm long and deep green. They are commonly harvested while still green, but can also be left on the plant until they fully ripen and turn red. Red poblanos are significantly spicier and more flavorful than green ones. Ancho chiles are dried red poblano peppers. Green poblanos are frequently grilled, stuffed, or roasted. Green poblanos usually have a mild flavor and a Scoville rating of 1,000–1,500 - but they can sometimes be hotter.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 45,
+        "height": 50,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59b0b7c507a74000040000cc.jpg?1504753597"
+    },
+    {
+        "name": "Habanero Pepper",
+        "scientific_name": "Capsicum chinense",
+        "description": "Habaneros are a very hot chili pepper variety that have a rating of 100,000-350,000 Scoville units and a floral aroma. The fruit is green when unripe. Various cultivars turn orange, red, white, brown, yellow, or purple as they ripen. Ripe fruit are typically 2-6 cm long.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 45,
+        "height": 50,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551dc1923732390003690100.jpg?1428013453"
+    },
+    {
+        "name": "Banana Pepper",
+        "scientific_name": "Capsicum annuum",
+        "description": "Banana peppers are Capsicum annuum cultivars that are curved like a banana and have a mild, tangy taste. They are often bright yellow, but can also be green, red, or orange. Mature, ripe peppers are sweeter than younger ones. Spicy varieties are called Hungarian wax peppers. Banana peppers are often confused with Pepperoncini, which are a separate cultivar of Capiscum annuum and Capsicum frutescens. Banana peppers can be eaten raw, stuffed, or pickled.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off.",
+        "spread": 45,
+        "height": 60,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/593b2deaa2f58400040000ba.jpg?1497050597"
+    },
+    {
+        "name": "Anaheim Pepper",
+        "scientific_name": "Capsicum annuum",
+        "description": "Anaheim peppers are a mild variety of the New Mexico chile pepper cultivar No. 9. When dried, they are known as \"chile seco del norte\".",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off.",
+        "spread": 40,
+        "height": 50,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/5939d93c01f8790004000004.jpg?1496963383"
+    },
+    {
+        "name": "Puerto Rico jumby pepper",
+        "scientific_name": "Microtea portoricensis",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "mild water-pepper",
+        "scientific_name": "Polygonum hydropiper",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Potato",
+        "scientific_name": "Solanum tuberosum",
+        "description": "A starchy vegetable that originated in South America, the potato is now a worldwide staple. The leaves and fruit are usually poisonous and the stem tuber is the only edible part. The potato can be cooked in many ways, brewed into alcohol, and also used as the basis for creating bioplastics.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Place seed potatoes or pieces of potato with eyes in the daylight. When the shoots emerge, cover with soil, straw or mulch",
+        "spread": 90,
+        "height": 25,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551dbd5a3732390003600100.jpg?1428012376"
+    },
+    {
+        "name": "potato onion",
+        "scientific_name": "allium cepa (aggregatum)",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Red Potato",
+        "scientific_name": null,
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58cf30c2aea93d0004000011.jpg?1489973441"
+    },
+    {
+        "name": "Blue Potato",
+        "scientific_name": "Solanum Tuberosum",
+        "description": "Originally from Chile, This potato's natural pigmentation also provides resistance to UV exposure and added nutrients from white potatoes.",
+        "sun_requirements": null,
+        "sowing_method": "Plant 15 cm deep",
+        "spread": 90,
+        "height": 92,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58dc16551cc3100004000001.jpg?1490818644"
+    },
+    {
+        "name": "Sweet Potato",
+        "scientific_name": "Ipomoea batata",
+        "description": "The sweet potato is a large, starchy, tuberous root. The tuber is long and tapered and has yellow, orange, red, brown, purple, or beige skin. It's flesh can be white, red, pink, violet, yellow, orange, or purple. Sweet potato cultivars with white or pale yellow flesh are not as sweet and moist as those with red, pink or orange flesh. It's heart-shaped leaves and vines are sometimes eaten as greens when they are young, but eating them interferes with the growth of the tuber underground. The sweet potato is not related to the potato or the yam.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Slips",
+        "spread": 35,
+        "height": 25,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/576b90adfe8d750003000445.jpg?1466667178"
+    },
+    {
+        "name": "Purple Potato",
+        "scientific_name": "Solanum tuberosum",
+        "description": "Purple potatoes are a type of potato with purple skin and white to purple flesh. Common varieties include Magic Molly, Purple Majesty, Adirondack Blue, Peter Wilcox (yellow flesh), and Harvest Moon (purple and white swirled skin with white flesh). Flavor and texture vary based on variety.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed cut tubers with at least one \"eye\" per piece.",
+        "spread": 30,
+        "height": 50,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c3ba257b12f80004000008.jpg?1489222179"
+    },
+    {
+        "name": "Price's potato-bean",
+        "scientific_name": "Apios priceana",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "prince's potato-bean",
+        "scientific_name": "apios priceana",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Hawai'i potato fern",
+        "scientific_name": "Marattia douglasii",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Yukon Gold Potato",
+        "scientific_name": "Solanum tuberosum",
+        "description": "Yukon Gold is a potato cultivar that was developed in the 1960s. It has smooth skin and yellow flesh that is waxy and moist. It becomes flaky and a bit starchy when cooked. Yukon Gold potatoes can be mashed, shredded, or used in soups and stews.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed cut tubers with at least one \"eye\" per piece.",
+        "spread": 30,
+        "height": 50,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58cf31a5aea93d0004000012.jpg?1489973668"
+    },
+    {
+        "name": "groundnut vine",
+        "scientific_name": "apios tuberosa",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "apios",
+        "scientific_name": "apios americana",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "kūmara",
+        "scientific_name": "Ipomoea batatas",
+        "description": null,
+        "sun_requirements": "Full Sun",
+        "sowing_method": "tupu/slips from tuber, planted our",
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58846427b94ff40004000001.jpg?1485071399"
+    },
+    {
+        "name": "Hillbilly Tomato",
+        "scientific_name": "Solanum lycopersicum",
+        "description": "Hillbilly, or Flame, tomatoes are large heirloom cultivars. The fruits are 1-2 pounds, round, heavily ribbed, and have brilliant yellow to orange skin with red marbling. They are juicy and have a rich, sweet flavor that is low in acid. They are usually eaten raw - sliced or added to sandwiches. For larger yield and improved plant health, prune and stake tomatoes.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 90,
+        "height": 120,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Delicata Squash",
+        "scientific_name": "Cucurbita pepo var. pepo",
+        "description": "Delicata is an oblong, cylindrical, cream-colored squash with green and sometimes orange stripes. Like all squash, it grows on vines. It has deep orange flesh that tastes like a sweet potato, but sweeter. Delicata is consumed as a winter squash, but is actually in the same species as summer squash: Cucurbita pepo. \n\nDelicata is delicious roasted, baked, sauteed, or steamed. When roasted or baked, the rind can be eaten as well.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed in groups of 2, thin to 1 plant when seedling have 2 sets of adult leaves",
+        "spread": 90,
+        "height": 30,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "onion",
+        "scientific_name": "allium cepa",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "topset onion",
+        "scientific_name": "allium cepa var. aggregatum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Japanese Yam",
+        "scientific_name": "Dioscorea japonica",
+        "description": "The Japanese yam is a roughly oblong tuber. It has a thin, rusted red colored skin and cream colored, densely textured flesh. It's flesh is dry, starchy, and mildly sweet. The skin is bitter like the roots and should be peeled before eating. The rest of the plant is a climbing vine that has opposite, smooth, shiny leaves and white flowers. \n\nYams should not be confused with sweet potatoes, even though the two words are often used as synonyms. Yams belong to the Dioscoreaceae family, while sweet potatoes are in the Convolvulaceae family.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Slips",
+        "spread": 30,
+        "height": 20,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c6217b0a1f240004000007.jpg?1489379705"
+    },
+    {
+        "name": "Kabocha Squash",
+        "scientific_name": "Cucurbita maxima",
+        "description": "Kabocha squash has a hard, knobbly skin that is deep green or orange with some light green to white stripes. It's shaped like a squat pumpkin and has wonderfully sweet, deep orange flesh. The taste and texture of it's flesh is like a combination of pumpkin and sweet potato. It is delicious roasted, and in curries, soups, and other dishes.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed. For shorter seasons, direct seed indoors in peat pots and transplant pots outdoors when soil is warm.",
+        "spread": 90,
+        "height": 25,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c6223b0a1f240004000008.jpg?1489379893"
+    },
+    {
+        "name": "Onion Chive",
+        "scientific_name": "Allium schoenoprasum",
+        "description": "Chives are members of the Allium family along with garlic, onions, and leeks. They have waxy, tubular, grass-like leaves that have a mild onion taste and purple blooms. They grow in grass-like clumps and are frost tolerant. Chives are a great companion plant because they are believed to repel harmful insects including aphids, beetles, cabbage worms, slugs, and Japanese beetles. The stems and flowers are edible. Pull the florets apart and chop the stems and sprinkle them onto salads, soups, baked potatoes, egg dishes, and more.",
+        "sun_requirements": "Partial Sun",
+        "sowing_method": "Direct seed outdoors or transplant seedlings",
+        "spread": 15,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c624110a1f240004000009.jpg?1489380365"
+    },
+    {
+        "name": "Taro",
+        "scientific_name": "Colocasia esculenta",
+        "description": "Taro is a perennial, tropical plant grown for its edible starchy corm (underground plant stem) and leaves. It's big green leaves and corm must be cooked before consumption, as they are toxic when raw. When grown as an ornamental, taro is known as \"elephant ears.\" Taro is believed to have been one of the earliest cultivated plants and is a food staple in African, South Indian and Oceanic cultures. Taro comes in many varieties, from small to large and from white-fleshed to purple-flecked. It is commonly prepared like a potato, since it is starchy, but it has a nuttier, richer, and more complex taste.",
+        "sun_requirements": "Partial Sun",
+        "sowing_method": "Direct seed tubers outdoors",
+        "spread": 45,
+        "height": 120,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/5935d5dc113c950004000238.jpg?1496700373"
+    },
+    {
+        "name": "Zinnia",
+        "scientific_name": "Zinnia",
+        "description": "Zinnia is a genus of plants of the sunflower tribe within the daisy (Asteraceae) family native to the Americas. The largest variety of species occurs in Mexico. Zinnia elegans is the most well-known species. Zinnias have solitary long-stemmed flowers in a variety of bright colors. Flowers can be a single row of petals or a mounded dome. Zinnias are easy to grow and are often planted as ornamentals and for fresh cut flowers. They attract bees and monarch butterflies. They are a great companion plant because they deter cucumber beetles and tomato worms, and attract predatory wasps and hover flies. They also attract hummingbirds, which eat whiteflies before those flies can damage tomatoes, cucumbers and potatoes.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed, thin seedlings to 50cm apart when they are 3cm tall",
+        "spread": 50,
+        "height": 75,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59b868fdce7bff000400000c.jpg?1505257724"
+    },
+    {
+        "name": "Breadfruit",
+        "scientific_name": "Artocarpus altilis",
+        "description": "The Breadfruit tree is a flowering tree in the Moraceae family (which also includes Mulberry and Jackfruit) that produces grapefruit-sized or larger round yellow fruit. It is an ultra-tropical plant native to the South Pacific that has spread throughout Oceania, South and Southeast Asia, the Pacific Ocean, the Caribbean, Central America, and Africa. It requires temperatures between 16–38 °C and an annual rainfall of 200–250 cm. It can be grown outdoors in USDA Zones 9b-11, or indoors in a container. It's name comes from the texture of it's fruit when cooked, which is similar to freshly baked bread and has a potato-like flavor. The tree's fruits can be eaten ripe as a fruit or underripe as a vegetable. A single tree can produce 200 or more fruits per season. It's light, sturdy timber is used in building ships and houses in the tropics, and all parts of the tree yield latex, which can be used to caulk boats.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Young tree or suckers",
+        "spread": null,
+        "height": 2600,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "pumpkin",
+        "scientific_name": "cucurbita sp.",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Pumpkin",
+        "scientific_name": "Cucurbita pepo",
+        "description": "Pumpkins are squash cultivars that are round to oval in shape with thick, slightly ribbed skin that varies from deep yellow to orange in color. Their flesh ranges from yellow to gold and has large seeds. Like other members of the Cucurbitaceae family, they grow on sprawling vines. Different varieties of pumpkins are grown for food or decoration.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors (and transplant outside after seedlings are hardened off) or outdoors",
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/54b4aa886130650002020000.jpg?1421126278"
+    },
+    {
+        "name": "pumpkin",
+        "scientific_name": "cucurbita pepo",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "field pumpkin",
+        "scientific_name": "Cucurbita pepo",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "devil's pumpkin",
+        "scientific_name": "Passiflora suberosa",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "buffalogourd pumpkin",
+        "scientific_name": "Cucurbita foetidissima",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Butternut Squash",
+        "scientific_name": "Cucurbita moschata",
+        "description": "Butternut squash is a type of winter squash that grows on a vine. It's sweet, nutty taste is similar to that of pumpkin. It has smooth, tan-yellow skin and firm orange flesh with a compartment of seeds in the bottom. It turns increasingly deeper orange when ripe, and the flesh becomes sweeter and richer. It can be stored for months and is delicious in soups, stews, casseroles, or roasted.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Sow groups of 1-2 seeds into peat pots and transplant into soil, or sow seeds directly into soil once soil is warm",
+        "spread": 90,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c9b4b8f577a400040000b2.jpg?1489614003"
+    },
+    {
+        "name": "potimarron",
+        "scientific_name": "cucurbita maxima var. maxima",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "wild pumkin",
+        "scientific_name": "Cucurbita foetidissima",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Kabocha Squash",
+        "scientific_name": "Cucurbita maxima",
+        "description": "Kabocha squash has a hard, knobbly skin that is deep green or orange with some light green to white stripes. It's shaped like a squat pumpkin and has wonderfully sweet, deep orange flesh. The taste and texture of it's flesh is like a combination of pumpkin and sweet potato. It is delicious roasted, and in curries, soups, and other dishes.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed. For shorter seasons, direct seed indoors in peat pots and transplant pots outdoors when soil is warm.",
+        "spread": 90,
+        "height": 25,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c6223b0a1f240004000008.jpg?1489379893"
+    },
+    {
+        "name": "zucchini / courgette",
+        "scientific_name": "Cucurbita pepo",
+        "description": "Zucchini or courgette is a summer squash which can reach nearly a meter in length, but is usually harvested immature at 15–25 cm.\nAlong with certain other squashes and pumpkins, it belongs to the species Cucurbita pepo. Zucchini can be dark or light green. A related hybrid, the golden zucchini, is a deep yellow or orange color.\nIn a culinary context, zucchini is treated as a vegetable; it is usually cooked and presented as a savory dish or accompaniment. Botanically, zucchinis are fruits, a type of botanical berry called a \"pepo\", being the swollen ovary of the zucchini flower.\n[Description from Wikipedia]",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "seeds",
+        "spread": 75,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/57ea87d12f0606000300009a.jpg?1474987984"
+    },
+    {
+        "name": "Madame Jeannette Pepper",
+        "scientific_name": "Capsicum chinense",
+        "description": "The Madame Jeannette Pepper is a chili pepper cultivar originally from Suriname. The compact plant produces peppers that are a bit larger than habaneros and have curvy, erratic shapes. They can be thin, curved, and slightly wrinkled, or pumpkin-shaped, or look like slightly elongated bell peppers. Peppers ripen from green to yellow. They have a Scoville rating of 125,000 - 325,000 and a fruity taste with hints of mango and pineapple beneath all the spiciness. Like other hot peppers, Madame Jeannettes dislike cool weather. They can be grown indoors in containers. Madame Jeannettes are sometimes confused with Adjuma pepper, which are a bit more round and habanero-shaped. They are used widely in Surinamese and Antillean cuisine.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside or to container after hardening off",
+        "spread": 60,
+        "height": 60,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Radicchio",
+        "scientific_name": "Cichorium intybus",
+        "description": "Radicchio is a leaf vegetable that grows in compact, dense heads. It's leaves have a bitter, spicy taste that complement fresh salads in small doses. When sautéed, grilled, or roasted, it's flavor deepens and it becomes less bitter. It is a cool weather crop.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 20,
+        "height": 15,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58cee251aea93d0004000004.jpg?1489953357"
+    },
+    {
+        "name": "Radish",
+        "scientific_name": "Raphanus sativus",
+        "description": null,
+        "sun_requirements": "Full Sun",
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/54a9dda633316500020b0000.jpg?1420418467"
+    },
+    {
+        "name": "wild radish",
+        "scientific_name": "Raphanus raphanistrum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Icicle Radish",
+        "scientific_name": "Raphanus sativus",
+        "description": "Icicle radishes have long, slender, snow-white roots and green leaves. The roots have a crisp flesh with a mild flavor. Radishes grow best in cool weather. Often eaten raw in salads.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed",
+        "spread": 2,
+        "height": 20,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c4ea6be570880004000005.jpg?1489300072"
+    },
+    {
+        "name": "Watermelon Radish",
+        "scientific_name": "Raphanus sativus",
+        "description": "Watermelon radishes are round roots with white skin and bright red or deep pink flesh. They have a sweet, delicious taste and can be eaten raw in salads, pickled, or cooked. They are best sown in summer or fall, as they will bolt from spring sowings.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed, thin to 5cm apart when seedlings are 3cm tall",
+        "spread": 5,
+        "height": 15,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58cf35acaea93d000400001a.jpg?1489974699"
+    },
+    {
+        "name": "Cherry Belle Radish",
+        "scientific_name": "Raphanus sativus",
+        "description": "Cherry Belle radishes are small, fast-growing radishes that are smooth and round with bright red skin and crisp white flesh. They are harvested when they are 2cm across. Like all radishes, they prefer cooler weather. Slice and toss into salads.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed, thin to 5cm apart",
+        "spread": 5,
+        "height": 13,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59274392ded5400004000164.jpg?1495745422"
+    },
+    {
+        "name": "French Breakfast Radish",
+        "scientific_name": "R. raphanistrum subsp. sativus",
+        "description": "Radishes are edible root vegetable of the Brassicaceae family. They are usually eaten raw in salads. Their sharp flavor comes from various chemical compounds produced by the plants, including glucosinolate, myrosinase, and isothiocyanate. Radishes are sometimes grown as companion plants because few pests and diseases affect them.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors, thin to 2cm apart",
+        "spread": 2,
+        "height": 20,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c3c39e7b12f80004000016.jpg?1489224605"
+    },
+    {
+        "name": "Rhubarb",
+        "scientific_name": "Rheum rhabarbarum",
+        "description": "Rhubarb is a perennial herbaceous plant in USDA Zones 4-8. It cannot be harvested from in the first year of planting. It has large green leaves that are poisonous and thick, red-green stalks that are edible raw or cooked. It's stalks have a strong, tart taste and are commonly used in strawberry-rhubarb pies.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Transplant crowns or direct seed indoors",
+        "spread": 92,
+        "height": 75,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/593873176d9b0f00040000bf.jpg?1496871691"
+    },
+    {
+        "name": "turkey rhubarb",
+        "scientific_name": "acetosa sagittatus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Munk's rhubarb",
+        "scientific_name": "Rumex alpinus",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Alaska wild rhubarb",
+        "scientific_name": "Polygonum alpinum",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Buckwheat",
+        "scientific_name": "Fagopyrum esculentum",
+        "description": "Buckwheat is a versatile short-season crop related to sorrel, knotweed and rhubarb. It does not like hot, dry weather and should be sown 3 months before the first expected killing frost. It grows well in low-fertility soils as long as they are well-drained. Buckwheat is grown for it's grain-like seeds, edible leaves, as a sprout, or as a summer cover crop/green manure. As a cover crop, it builds organic matter and suppresses weeds with its rapid and dense growth, brings up phosphorus and calcium from deep in the soil, prevents erosion, and attracts pollinators. The nectar from buckwheat flowers makes a dark-colored honey. Buckwheat's leaves can be eaten raw or cooked like spinach. Seed should be harvested just before the first killing frost. It's triangular seeds are rich in complex carbohydrates and can be ground into a gluten-free flour, made into noodles, or cooked whole.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed (broadcast or drill), thin seedlings to 10cm apart",
+        "spread": 5,
+        "height": 125,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/593f3dad83cfbb0004000004.jpg?1497316773"
+    },
+    {
+        "name": "squash",
+        "scientific_name": "cucurbita pepo",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Squash",
+        "scientific_name": "cucurbita",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/54b4a9046130650002010000.jpg?1421125890"
+    },
+    {
+        "name": "Summer Squash, Burpee's Fordhook Zucchini",
+        "scientific_name": "Cucurbita pepo",
+        "description": "Smooth fruits have creamy white, tender flesh. Space-saving bush-type plants. \nhttp://burpee.com/more/62013",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Sow in rich, fertile soil after danger of frost. Sow 1-2 seeds about 90cm apart and cover with 3cm of fine soil. Firm lightly and keep evenly moist. Seedlings emerge in 10-14 days. Harvest often and when fruits are small.",
+        "spread": 92,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/5928eeaef55b2400040000b4.jpg?1495854763"
+    },
+    {
+        "name": "summer squash - Fordhook heirloom zucchini",
+        "scientific_name": "Cucurbita pepo",
+        "description": "deep blackish green with creamy white flesh",
+        "sun_requirements": "full sun",
+        "sowing_method": "direct seed, 4 seeds in a 12\" mound",
+        "spread": 0,
+        "height": 0,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "crookneck squash",
+        "scientific_name": "Cucurbita moschata",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "squash blossoms",
+        "scientific_name": "cucurbita",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "winter squash",
+        "scientific_name": "Cucurbita maxima",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Acorn Squash",
+        "scientific_name": "Curcurbita pepo",
+        "description": "Dark green and/or orange to yellow patterned rind with longitudinal ridges. Acorn-shaped, generally 4-7 inches long. Sweet, yellow-orange flesh inside. Belongs to the same species as summer squashes like zucchini and crookneck squash.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "seeds",
+        "spread": 60,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c3b9877b12f80004000006.jpg?1489222020"
+    },
+    {
+        "name": "Kabocha Squash",
+        "scientific_name": "Cucurbita maxima",
+        "description": "Kabocha squash has a hard, knobbly skin that is deep green or orange with some light green to white stripes. It's shaped like a squat pumpkin and has wonderfully sweet, deep orange flesh. The taste and texture of it's flesh is like a combination of pumpkin and sweet potato. It is delicious roasted, and in curries, soups, and other dishes.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed. For shorter seasons, direct seed indoors in peat pots and transplant pots outdoors when soil is warm.",
+        "spread": 90,
+        "height": 25,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c6223b0a1f240004000008.jpg?1489379893"
+    },
+    {
+        "name": "Spaghetti Squash",
+        "scientific_name": "Cucurbita pepo",
+        "description": "Spaghetti Squash is a squash cultivar. When cooked, it's flesh falls away from the fruit in strands like spaghetti. It's flesh is bright yellow or orange and its skin can be ivory, yellow or orange. Like other squash, it grows on sprawling vines.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors or indoors in peat pots (transplant pots outside after hardening off seedlings)",
+        "spread": 90,
+        "height": 25,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58ceeb8baea93d000400000f.jpg?1489955717"
+    },
+    {
+        "name": "Butternut Squash",
+        "scientific_name": "Cucurbita moschata",
+        "description": "Butternut squash is a type of winter squash that grows on a vine. It's sweet, nutty taste is similar to that of pumpkin. It has smooth, tan-yellow skin and firm orange flesh with a compartment of seeds in the bottom. It turns increasingly deeper orange when ripe, and the flesh becomes sweeter and richer. It can be stored for months and is delicious in soups, stews, casseroles, or roasted.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Sow groups of 1-2 seeds into peat pots and transplant into soil, or sow seeds directly into soil once soil is warm",
+        "spread": 90,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c9b4b8f577a400040000b2.jpg?1489614003"
+    },
+    {
+        "name": "Yellow Squash",
+        "scientific_name": "Cucurbita pepo",
+        "description": "Yellow squash is a variety of summer squash with yellow skin and flesh. It can come in a variety of shapes, from crookneck to zucchini-shaped. The squash's flesh is most tender when it is slightly immature - the squash is usually harvested when it is around 10cm in length. It can be baked, grilled, fried, or boiled.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed 2 seeds, thin to 1 plant when seedlings have 2 sets of leaves",
+        "spread": 90,
+        "height": 70,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58ceeb0caea93d000400000e.jpg?1489955591"
+    },
+    {
+        "name": "Pattypan Squash",
+        "scientific_name": "Cucurbita pepo",
+        "description": "Pattypan squash is a variety of summer squash that has a bright yellow, green or white skin and is shaped like a flying saucer with scalloped edges. The squash's flesh is most tender when it is slightly immature - the squash is usually harvested when it is 5-8cm in diameter. It can be baked, grilled, fried, or boiled.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors or direct seed into peat pots and transplant pots into soil",
+        "spread": 90,
+        "height": 80,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c9bd4cf577a40004000163.jpg?1489616202"
+    },
+    {
+        "name": "Delicata Squash",
+        "scientific_name": "Cucurbita pepo var. pepo",
+        "description": "Delicata is an oblong, cylindrical, cream-colored squash with green and sometimes orange stripes. Like all squash, it grows on vines. It has deep orange flesh that tastes like a sweet potato, but sweeter. Delicata is consumed as a winter squash, but is actually in the same species as summer squash: Cucurbita pepo. \n\nDelicata is delicious roasted, baked, sauteed, or steamed. When roasted or baked, the rind can be eaten as well.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed in groups of 2, thin to 1 plant when seedling have 2 sets of adult leaves",
+        "spread": 90,
+        "height": 30,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Red Kuri Squash",
+        "scientific_name": "Cucurbita maxima",
+        "description": "Red Kuri is a teardrop-shaped winter squash with thick, smooth, deep-orange to red skin. It's firm flesh has a delicate chestnut-like flavor and is good baked, roasted, or in pies and purees. Like other members of the squash family, it grows on a vine. Each vine produces around three squash.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct sow inside or outdoors. Transplant seedlings after hardening off.",
+        "spread": 90,
+        "height": 50,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58ceec08aea93d0004000010.jpg?1489955844"
+    },
+    {
+        "name": "summer squash - Fordhook heirloom zucchini",
+        "scientific_name": "Cucurbita pepo",
+        "description": "deep blackish green with creamy white flesh",
+        "sun_requirements": "full sun",
+        "sowing_method": "direct seed, 4 seeds in a 12\" mound",
+        "spread": 0,
+        "height": 0,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "summer squash - Fordhook heirloom zucchini",
+        "scientific_name": "Cucurbita pepo",
+        "description": "deep blackish green with creamy white flesh",
+        "sun_requirements": "full sun",
+        "sowing_method": "direct seed, 4 seeds in a 12\" mound",
+        "spread": 0,
+        "height": 0,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Squash 'Green Black Market Garden'",
+        "scientific_name": "Cucurbita pepo",
+        "description": "Dark green squashes.",
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "pumpkin",
+        "scientific_name": "cucurbita pepo",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "lacoyote",
+        "scientific_name": "cucumis ficifolius",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Bitter Melon",
+        "scientific_name": "Momordica charantia",
+        "description": "Bitter melon is a tropical and subtropical vine in the Cucurbitaceae family. It can be grown like cucumbers, but needs at least 3-4 months of warm to hot and humid weather for fruits to develop and mature. Fruits have a warty exterior and oblong shape with tapering ends and a bitter taste. They are usually eaten cooked when young. As the fruits age, the skin becomes tougher and less edible, but the pith becomes sweet and intensely red and is often used raw in salads. The fruit turns orange and mushy and splits when it is fully ripe. Bitter melon is used in Ayurvedic medicine and eaten as a treatment for malaria in some countries (it's bitter flavor is due to the melon's quinine content.) To aid germination, scarify and dunk seeds in boiling water for no more than four seconds, then drain on a paper towel for a few minutes before sowing. Plants should be trellised to reduce disease and prevent the fruits from rotting on moist soil.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off.",
+        "spread": 40,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/593b4900a2f58400040000be.jpg?1497057532"
+    },
+    {
+        "name": "potimarron",
+        "scientific_name": "cucurbita maxima var. maxima",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "zit-kwa",
+        "scientific_name": "benincasa hispida",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "zucchini / courgette",
+        "scientific_name": "Cucurbita pepo",
+        "description": "Zucchini or courgette is a summer squash which can reach nearly a meter in length, but is usually harvested immature at 15–25 cm.\nAlong with certain other squashes and pumpkins, it belongs to the species Cucurbita pepo. Zucchini can be dark or light green. A related hybrid, the golden zucchini, is a deep yellow or orange color.\nIn a culinary context, zucchini is treated as a vegetable; it is usually cooked and presented as a savory dish or accompaniment. Botanically, zucchinis are fruits, a type of botanical berry called a \"pepo\", being the swollen ovary of the zucchini flower.\n[Description from Wikipedia]",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "seeds",
+        "spread": 75,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/57ea87d12f0606000300009a.jpg?1474987984"
+    },
+    {
+        "name": "Pumpkin",
+        "scientific_name": "Cucurbita pepo",
+        "description": "Pumpkins are squash cultivars that are round to oval in shape with thick, slightly ribbed skin that varies from deep yellow to orange in color. Their flesh ranges from yellow to gold and has large seeds. Like other members of the Cucurbitaceae family, they grow on sprawling vines. Different varieties of pumpkins are grown for food or decoration.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors (and transplant outside after seedlings are hardened off) or outdoors",
+        "spread": null,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/54b4aa886130650002020000.jpg?1421126278"
+    },
+    {
+        "name": "Thyme",
+        "scientific_name": "Thymus vulgaris",
+        "description": "Thyme is an evergreen herb and a relative of oregano. It is a perennial in zones 6-8 and can live for up to 5 or 6 years. It can be used fresh or dried to season dishes.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Cuttings or direct seed indoors, transplant seedlings outside or into larger container",
+        "spread": 30,
+        "height": 25,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58e32ad6ca5bf60004000164.jpg?1491282642"
+    },
+    {
+        "name": "mother-of-thyme",
+        "scientific_name": "acinos arvensis",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "thyme-leaf mock orange",
+        "scientific_name": "Philadelphus serpyllifolius",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Tomato",
+        "scientific_name": "Solanum lycopersicum",
+        "description": "The tomato is the fruit of the tomato plant, a member of the Nightshade family (Solanaceae). The fruit grows on a sprawling vine that is often trellised or caged to keep it upright. There are many kinds of tomatoes, including conventional, hybrid, heirloom, plum, grape, and cherry. Determinate or bush varieties do not need pruning and can be grown without trellises or cages. Indeterminate or climbing varieties benefit from pruning and should be trellised, caged, or staked.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 75,
+        "height": 90,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/54ffce343134350003880200.jpg?1426050603"
+    },
+    {
+        "name": "Heirloom Tomatoes",
+        "scientific_name": "Solanum lycopersicum",
+        "description": "Heirloom tomatoes are open-pollinated, non-hybrid cultivars that have usually been passed down through several generations because of valued characteristics like flavor and appearance. Heirlooms are sweeter and more richly flavored than conventional tomatoes. They come in a wide variety of shapes, sizes, and colors, each with it's own unique flavor. They are often more disease-resistant, but have a shorter shelf life than conventional tomatoes. Some cultivars can be prone to cracking. Heirlooms often have a higher water content than conventional tomatoes and are often eaten raw with freshly ground salt and pepper, fresh basil, olive oil, and mozzarella.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors and transplant seedlings outside after hardening off",
+        "spread": 100,
+        "height": 120,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551af6153830380003600100.jpg?1427830287"
+    },
+    {
+        "name": "Cherry Tomatoes",
+        "scientific_name": "Solanum lycopersicum var. cerasiforme",
+        "description": "Cherry tomatoes range in size from a thumbtip to the size of a golf ball. Their shape ranges from spherical to slightly oblong to pointed at the bottom. They are often red, but can also be yellow, green, striped, and even black. More oblong cherry tomatoes often share characteristics with plum tomatoes, and are known as grape tomatoes. Cherry tomatoes can be quite sweet (such as the Sungold or Sunsweet yellow varieties), more traditionally acidic, or deep in flavor. They are delicious for snacking, in salads, lightly roasted or grilled, or baked. They require little to no pruning unlike larger tomato plants.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Sow seeds indoors 6-8 weeks before the last expected frost",
+        "spread": 70,
+        "height": 60,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/57073ebd4a3af70003000006.jpg?1460092602"
+    },
+    {
+        "name": "tomato",
+        "scientific_name": "Solanum lycopersicum",
+        "description": null,
+        "sun_requirements": "Full Sun",
+        "sowing_method": null,
+        "spread": 20,
+        "height": 12,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Tomatillo",
+        "scientific_name": "Physalis philadelphica",
+        "description": "The tomatillo is a member of the Nightshade family. The plant bears a resemblance to tomato plants and benefits from pruning and trellising. The fruit of the tomatillo plant is small, round, and green or purple. It is covered in a paper husk that splits open when the fruit is ready for harvest. Tomatillos are native to Mexico and can be eaten raw or cooked. They have a citrusy, tart, and tangy lemon flavor.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 60,
+        "height": 100,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/54ab00e16635390002000000.jpg?1420493020"
+    },
+    {
+        "name": "Beefsteak tomato (Cœur-de-bœuf)",
+        "scientific_name": "Solanum lycopersicum",
+        "description": "A beef tomato (British English) or beefsteak tomato (American English)[1] is any of the largest varieties of cultivated tomatoes, some weighing 450 grams (0.99 lb) or more. Most are pink or red with numerous small seed compartments (locules) distributed throughout the fruit, sometimes displaying pronounced ribbing similar to ancient pre-Columbian tomato cultivars. While popular among home growers for sandwich making and other applications requiring a large tomato to be eaten raw, beefsteaks are not grown commercially as often as other types, since they are not considered as suitable for mechanization as smaller slicing tomatoes.\r\n(Source: Wikipedia 'Beefsteak tomato' article)",
+        "sun_requirements": "",
+        "sowing_method": "Sow seeds, cuttings",
+        "spread": 0,
+        "height": 0,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "tomato fern",
+        "scientific_name": "Lonchitis hirsuta",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Hillbilly Tomato",
+        "scientific_name": "Solanum lycopersicum",
+        "description": "Hillbilly, or Flame, tomatoes are large heirloom cultivars. The fruits are 1-2 pounds, round, heavily ribbed, and have brilliant yellow to orange skin with red marbling. They are juicy and have a rich, sweet flavor that is low in acid. They are usually eaten raw - sliced or added to sandwiches. For larger yield and improved plant health, prune and stake tomatoes.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 90,
+        "height": 120,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Pineapple Tomato",
+        "scientific_name": "Solanum lycopersicum",
+        "description": "Pineapple tomatoes are an heirloom variety that produce large fruit that can weigh 1-2lbs and measure at least 12cm in diameter. Tomatoes are bi-colored with a streaked red and yellow exterior. Flesh is swirled with red, pink, orange, and yellow and meaty with few seeds. They have a sweet fruity taste with a hint of citrus. For larger yield and improved plant health, prune and stake plants.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 90,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Sunray Tomato",
+        "scientific_name": "Solanum lycopersicum",
+        "description": "Sunrays or Sungolds are a cherry tomato variety that produce small, round golden to orange tomatoes. They have deeply sweet, delicious, fruity flavor. Harvest when they are at their deepest hue for the most intense flavor. Cherry tomatoes do not need to be pruned. Trellis and staking is optional.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 90,
+        "height": 300,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59b0d45f07a74000040000ce.jpg?1504760925"
+    },
+    {
+        "name": "Cherry Tomato 'Red Robin'",
+        "scientific_name": "Solanum lycopersicum",
+        "description": "This variety can be grown in pots.",
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": 25,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Black Prince Tomato",
+        "scientific_name": "Solanum lycopersicum",
+        "description": "Black Prince tomatoes are an heirloom tomato cultivar from Siberia. They are well suited for cooler climates with shorter growing seasons. They produce garnet to mahogany brown fruits that can be round, plum, or heart-shaped and about 7cm in diameter. The fruit has a deep, sweet, rich flavor. Stake/trellis/cage and prune plants for best results. Fruit can be eaten raw or cooked into sauce.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant outside after last frost",
+        "spread": 90,
+        "height": 150,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Cherokee Purple Tomato",
+        "scientific_name": "Solanum lycopersicum",
+        "description": "Cherokee Purple is an heirloom tomato variety that produces flattened globe-shaped fruits that are dusky pink with dark green shoulders. Fruits are medium to large sized with a deep, rich flavor. Best eaten raw. For larger yield and improved plant health, prune and stake tomatoes.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors and transplant seedlings outside after hardening off",
+        "spread": 90,
+        "height": 200,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Green Zebra Tomato",
+        "scientific_name": "Solanum lycopersicum",
+        "description": "Green Zebra tomatoes are a tomato cultivar created by cross-breeding 4 different heirloom tomato varieties. The fruits are 4-6cm in diameter and have emerald skin with dark green vertical stripes. When ripe, the skin develops a yellow blush. Their flesh is bright green, tangy, and sweet. Green Zebras are great eaten raw or in salads. For larger yield and improved plant health, prune and stake tomatoes.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 120,
+        "height": 100,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Striped Cavern Tomato",
+        "scientific_name": "Solanum lycopersicum",
+        "description": "Striped Cavern is an heirloom tomato variety that produces medium-sized, thick-walled, hollow tomatoes similar to bell peppers. The tomatoes are often stuffed or added to fresh salsas. They have red skin with yellow and orange stripes and a sweet, mild taste. For larger yield and improved plant health, prune and stake plants.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": null,
+        "height": 120,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Borage",
+        "scientific_name": "Borago officinalis",
+        "description": "Borage, or Starflower, is an annual flowering herb with blue, pink, or white flowers and bristly stems and leaves. It is a popular companion plant, particularly for tomatoes, as it is thought to confuse mother moths of tomato hornworms looking for a place to lay their eggs. It also attracts many pollinators. It's edible leaves can be used as a fresh vegetable or dried herb. When fresh, it has a cucumber-like taste and is used in salads, lemonade, or as a garnish. It's flowers have a sweet honey-like taste and can be used to decorate desserts or cocktails or candied. It is also cultivated for the borage seed oil extracted from it's seeds.",
+        "sun_requirements": "Partial Sun",
+        "sowing_method": "Direct seed outdoors, thin to 45cm apart when seedlings are 4cm tall",
+        "spread": 30,
+        "height": 100,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/57e89c12b0704e000300013f.jpg?1474862095"
+    },
+    {
+        "name": "Zinnia",
+        "scientific_name": "Zinnia",
+        "description": "Zinnia is a genus of plants of the sunflower tribe within the daisy (Asteraceae) family native to the Americas. The largest variety of species occurs in Mexico. Zinnia elegans is the most well-known species. Zinnias have solitary long-stemmed flowers in a variety of bright colors. Flowers can be a single row of petals or a mounded dome. Zinnias are easy to grow and are often planted as ornamentals and for fresh cut flowers. They attract bees and monarch butterflies. They are a great companion plant because they deter cucumber beetles and tomato worms, and attract predatory wasps and hover flies. They also attract hummingbirds, which eat whiteflies before those flies can damage tomatoes, cucumbers and potatoes.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed, thin seedlings to 50cm apart when they are 3cm tall",
+        "spread": 50,
+        "height": 75,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59b868fdce7bff000400000c.jpg?1505257724"
+    },
+    {
+        "name": "Cayenne Pepper",
+        "scientific_name": "Capsicum annuum",
+        "description": "Cayenne peppers are a cultivar of Capsicum annuum. They are members of the nightshade family, Solanaceae, and related to tomatoes and eggplant. The upright plants produce long, thin, red fruit that can be up to 25cm long. Cayenne peppers have a Scoville rating of 30,000 to 50,000 units and are slightly hotter than jalapenos. They are generally dried and ground to make cayenne spice, but they can also be used whole or in a thin, vinegar-based sauce.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors, transplant seedlings outside after hardening off",
+        "spread": 45,
+        "height": 90,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59aedf2e8afacc00040000c4.jpg?1504632618"
+    },
+    {
+        "name": "Mint",
+        "scientific_name": "Mentha spicata / Mentha viridis",
+        "description": "Mint is a perennial herb with a distinctive taste. It's stems are square-shaped and it has pink, purple, or white flowers. Peppermint, ginger mint, and large apple mint are hybrids of mint. Mint is often grown in pots to prevent it from overtaking the garden with its invasive, spreading rhizome root structure. It's leaves are most aromatic before the plant flowers and can be used fresh, dried, or frozen. Mint's strongly scented leaves confuse the pests of carrots, tomatoes, alliums, and brassicas, and deter flea beetles.",
+        "sun_requirements": "Partial Sun",
+        "sowing_method": "Direct seed indoors or outside",
+        "spread": 35,
+        "height": 60,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58cee0a6aea93d0004000001.jpg?1489952931"
+    },
+    {
+        "name": "Calendula",
+        "scientific_name": "Calendula officinalis",
+        "description": "Calendula, or Pot Marigold, is a yellow to orange flower grown for its medicinal uses and edible flowers. It is also a popular companion plant because of the beneficial insects it attracts. Although it is in the Daisy (Asteraceae) family with French Marigold, the two plants are in separate genera. French Marigold is usually not edible. Calendula is very easy to grow. It's flowers are often added to salads or used as food coloring and dye. The plant has antibacterial, antiseptic, antifungal, and anti-inflammatory properties. Its leaves and flowers are often made into salves and poultices for wounds and skin irritations. Calendula repels whitefly from tomatoes and can lure aphids away from beans. It attracts beneficial insects like ladybirds, lacewings and hoverflies, which prey on aphids.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors after last frost. Thin seedlings to 40cm.",
+        "spread": 40,
+        "height": 80,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59b848a6ce7bff0004000007.jpg?1505249428"
+    },
+    {
+        "name": "Zucchini",
+        "scientific_name": "Cucurbita pepo",
+        "description": "Zucchini is a type of summer squash. It's soft, edible skin ranges from light to dark green and is sometimes striped. It can grow to a meter in length, but is usually harvested at 15-25 cm, when the flesh is tender and the seeds relatively undeveloped. It can be eaten raw or cooked. It has spiny leaves and stems and large yellow flowers. The flowers are edible, but eating them prevents the zucchini from developing.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed 2 seeds, thin to 1 plant when seedlings have 2 sets of leaves",
+        "spread": 90,
+        "height": 70,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58cee6acaea93d0004000009.jpg?1489954465"
+    },
+    {
+        "name": "Summer Squash, Burpee's Fordhook Zucchini",
+        "scientific_name": "Cucurbita pepo",
+        "description": "Smooth fruits have creamy white, tender flesh. Space-saving bush-type plants. \nhttp://burpee.com/more/62013",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Sow in rich, fertile soil after danger of frost. Sow 1-2 seeds about 90cm apart and cover with 3cm of fine soil. Firm lightly and keep evenly moist. Seedlings emerge in 10-14 days. Harvest often and when fruits are small.",
+        "spread": 92,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/5928eeaef55b2400040000b4.jpg?1495854763"
+    },
+    {
+        "name": "summer squash - Fordhook heirloom zucchini",
+        "scientific_name": "Cucurbita pepo",
+        "description": "deep blackish green with creamy white flesh",
+        "sun_requirements": "full sun",
+        "sowing_method": "direct seed, 4 seeds in a 12\" mound",
+        "spread": 0,
+        "height": 0,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "zucchini / courgette",
+        "scientific_name": "Cucurbita pepo",
+        "description": "Zucchini or courgette is a summer squash which can reach nearly a meter in length, but is usually harvested immature at 15–25 cm.\nAlong with certain other squashes and pumpkins, it belongs to the species Cucurbita pepo. Zucchini can be dark or light green. A related hybrid, the golden zucchini, is a deep yellow or orange color.\nIn a culinary context, zucchini is treated as a vegetable; it is usually cooked and presented as a savory dish or accompaniment. Botanically, zucchinis are fruits, a type of botanical berry called a \"pepo\", being the swollen ovary of the zucchini flower.\n[Description from Wikipedia]",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "seeds",
+        "spread": 75,
+        "height": null,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/57ea87d12f0606000300009a.jpg?1474987984"
+    },
+    {
+        "name": "summer squash - Fordhook heirloom zucchini",
+        "scientific_name": "Cucurbita pepo",
+        "description": "deep blackish green with creamy white flesh",
+        "sun_requirements": "full sun",
+        "sowing_method": "direct seed, 4 seeds in a 12\" mound",
+        "spread": 0,
+        "height": 0,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "summer squash - Fordhook heirloom zucchini",
+        "scientific_name": "Cucurbita pepo",
+        "description": "deep blackish green with creamy white flesh",
+        "sun_requirements": "full sun",
+        "sowing_method": "direct seed, 4 seeds in a 12\" mound",
+        "spread": 0,
+        "height": 0,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "courgette",
+        "scientific_name": "cucurbita pepo var. melopepo",
+        "description": null,
+        "sun_requirements": null,
+        "sowing_method": null,
+        "spread": null,
+        "height": null,
+        "image": "/assets/baren_field_square-3dbd07fc93d8c64a2812339ab9748b18.jpg"
+    },
+    {
+        "name": "Acorn Squash",
+        "scientific_name": "Curcurbita pepo",
+        "description": "Dark green and/or orange to yellow patterned rind with longitudinal ridges. Acorn-shaped, generally 4-7 inches long. Sweet, yellow-orange flesh inside. Belongs to the same species as summer squashes like zucchini and crookneck squash.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "seeds",
+        "spread": 60,
+        "height": 30,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c3b9877b12f80004000006.jpg?1489222020"
+    },
+    {
+        "name": "Yellow Squash",
+        "scientific_name": "Cucurbita pepo",
+        "description": "Yellow squash is a variety of summer squash with yellow skin and flesh. It can come in a variety of shapes, from crookneck to zucchini-shaped. The squash's flesh is most tender when it is slightly immature - the squash is usually harvested when it is around 10cm in length. It can be baked, grilled, fried, or boiled.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed 2 seeds, thin to 1 plant when seedlings have 2 sets of leaves",
+        "spread": 90,
+        "height": 70,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58ceeb0caea93d000400000e.jpg?1489955591"
+    }
+]
