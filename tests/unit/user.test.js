@@ -9,7 +9,7 @@ describe('user model', () => {
             email: 'reggie@plants.plants',
             hash: 'asdf'
         });
-        reggie.validate();
+        return reggie.validate();
     });
 
     it('new user generates hash', () => {
