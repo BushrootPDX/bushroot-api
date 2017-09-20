@@ -11,7 +11,6 @@ var ObjectId = mongoose.Schema.ObjectId;
 
 const { assert } = require('chai');
 const Garden = require('../../lib/models/garden');
-const PlantInstance = require('../../lib/models/plantInstance');
 
 
 let garden = {
@@ -37,15 +36,9 @@ let tomatoPlant = {
     _id: '59c02bad8398d8c4b5c3897b'
 };
 
-let tomatoInstance = {
-    plant: '59c02bad8398d8c4b5c3897b',
-    xPosition: 2,
-    yPosition: 4
-};
 
 before(db.drop);
 before(() => db.savePlant(tomatoPlant));
-before(() => db.savePlantInstance(tomatoInstance));
 
 describe('garden', () => {
 
@@ -65,14 +58,4 @@ describe('garden', () => {
         })
     );
 
-    const plot = tomatoInstance.plant;
-
-    it('adds new plant instance to garden plot', () => request
-        .put(`/api/gardens/${garden._id}`)
-        .send({ plot })
-        .then(({ body }) => {
-            assert.ok(body._id);
-            assert.equal(body.plot[0], tomatoInstance.plant);
-        })
-    );
 });
