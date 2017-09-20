@@ -16,7 +16,7 @@ const Garden = require('../../lib/models/garden');
 let garden = {
     name: 'East Garden',
     width: 120,
-    height: 144,
+    length: 144,
     plot: []
 };
 

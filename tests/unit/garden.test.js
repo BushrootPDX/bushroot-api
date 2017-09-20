@@ -7,7 +7,7 @@ describe('garden model', () => {
         const garden = new Garden({
             name: 'East Garden',
             width: 120,
-            height: 144
+            length: 144
         });
         return garden.validate();
     });
