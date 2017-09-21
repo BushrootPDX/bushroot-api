@@ -14,12 +14,12 @@ module.exports = {
             .then(res => res.body.token);
     },
     signup(user) {
-        return request.post('/auth/signup')
+        return request.post('api/auth/signup')
             .send(user)
             .then(res => res.body);
     },
     signin(user) {
-        return request.post('/auth/signin')
+        return request.post('api/auth/signin')
             .send(user)
             .then(res => res.body);
     },
