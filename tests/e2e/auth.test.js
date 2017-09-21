@@ -52,10 +52,7 @@ describe('auth', () => {
             return request
                 .post('/api/auth/signin')
                 .send(user)
-                .then(res => {
-                    assert.ok(res.body.token);
-                    assert.ok(res.body.user.gardens);
-                });
+                .then(res => assert.ok(res.body.token));
         });
 
         it('signin with bad password fails', () => {

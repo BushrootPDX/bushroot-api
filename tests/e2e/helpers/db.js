@@ -9,7 +9,7 @@ module.exports = {
         return connection.dropDatabase();
     },
     getToken(user = { email: 'test@test.com', password: '123' }) {
-        return request.post('api/auth/signup')
+        return request.post('/auth/signup')
             .send(user)
             .then(res => res.body.token);
     },

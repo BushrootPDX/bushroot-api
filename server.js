@@ -2,10 +2,10 @@ const http = require('http');
 require('dotenv').config();
 const app = require('./lib/app');
 const connect = require('./lib/connect');
-connect(process.env.MONGODB_URI);
+connect('mongodb://localhost:27017/bushroot'); // convert to process.env.mongodb_uri
 const server = http.createServer(app);
 const port = process.env.PORT || 3001;
 
 server.listen(port, () => {
-    console.log('server is running on', server.address().port); //eslint-disable-line
+    console.log('server is running on', server.address().port);
 });
