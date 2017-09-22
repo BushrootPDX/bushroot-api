@@ -57,29 +57,36 @@ function queryPlantDb(plantQuery) {
 // queryPlantDb('radish');
 // queryPlantDb('radicchio');
 
-const files = fs.readdirSync('data');
-const plantsList = [];
+// const files = fs.readdirSync('data');
+// const plantsList = [];
 
-files.forEach(file => {
-    const plants = JSON.parse(fs.readFileSync(`data/${file}`));
-    plantsList.push(...plants);
-});
+// files.forEach(file => {
+//     const plants = JSON.parse(fs.readFileSync(`data/${file}`));
+//     plantsList.push(...plants);
+// });
 
-fs.writeFile('data/plants.json', JSON.stringify(plantsList));
+// fs.writeFile('data/plants.json', JSON.stringify(plantsList));
 
 // const current = JSON.parse(fs.readFileSync('data/plants.json'));
-// const plants = current.map(plant => {
-//     let newPlant = {
+// const plants = current.filter(plant => !!plant.spread).map(plant => {
+
+//     const newSpread = Math.ceil(plant.spread/2.54);
+//     const newHeight = Math.ceil(plant.height/2.54);
+
+//     const newPlant = {
 //         name: plant.name,
 //         scientific_name: plant.scientific_name,
 //         description: plant.description,
 //         sun_requirements: plant.sun_requirements,
 //         sowing_method: plant.sowing_method,
-//         spread: plant.row_spacing,
-//         height: plant.height,
+//         spread: newSpread,
+//         height: newHeight,
 //         image: plant.image
 //     };
 //     return newPlant;
 // });
 
 // fs.writeFile('data/plants.json', JSON.stringify(plants));
+
+
+mongodb://heroku_7hq9mvq0:kdmc5grg59e4nma4saie4gbclu@ds141514.mlab.com:41514/heroku_7hq9mvq0
