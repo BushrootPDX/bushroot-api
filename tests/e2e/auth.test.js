@@ -1,5 +1,5 @@
 const db = require('./helpers/db');
-const request = require('./helpers/request');
+const request = db.request;
 const { assert } = require('chai');
 
 describe('auth', () => {
@@ -44,7 +44,8 @@ describe('auth', () => {
                 .send(user)
                 .then(res => {
                     assert.ok(token = res.body.token);
-                    assert.ok(token = res.body.userId);
+                    assert.ok(res.body.user._id);
+                    assert.deepEqual(res.body.user.gardens, []);
                 });
         });
 
