@@ -5,21 +5,23 @@ const PlantInstance = require('../../../lib/models/plantInstance');
 
 
 module.exports = {
+    request,
+    
     drop() {
         return connection.dropDatabase();
     },
     getToken(user = { email: 'test@test.com', password: '123' }) {
-        return request.post('api/auth/signup')
+        return request.post('/api/auth/signup')
             .send(user)
             .then(res => res.body.token);
     },
     signup(user) {
-        return request.post('api/auth/signup')
+        return request.post('/api/auth/signup')
             .send(user)
             .then(res => res.body);
     },
     signin(user) {
-        return request.post('api/auth/signin')
+        return request.post('/api/auth/signin')
             .send(user)
             .then(res => res.body);
     },
