@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Basil",
+        "scientific_name": "Ocimum basilicum",
+        "description": "Fragrant and delicious herb with tender green leaves. Great in just about anything - salad, sauces, meat marinades, and even popcorn.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Plant seeds under 1cm of soil in starting pots. Keep the plants indoors or transplant them outdoors in late spring.",
+        "spread": 10,
+        "height": 60,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/54a9e05833316500020f0000.jpg?1420419158"
+    },
+    {
+        "name": "Potato",
+        "scientific_name": "Solanum tuberosum",
+        "description": "A starchy vegetable that originated in South America, the potato is now a worldwide staple. The leaves and fruit are usually poisonous and the stem tuber is the only edible part. The potato can be cooked in many ways, brewed into alcohol, and also used as the basis for creating bioplastics.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Place seed potatoes or pieces of potato with eyes in the daylight. When the shoots emerge, cover with soil, straw or mulch",
+        "spread": 90,
+        "height": 25,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551dbd5a3732390003600100.jpg?1428012376"
+    },
+    {
+        "name": "Heirloom Tomatoes",
+        "scientific_name": "Solanum lycopersicum",
+        "description": "Heirloom tomatoes are open-pollinated, non-hybrid cultivars that have usually been passed down through several generations because of valued characteristics like flavor and appearance. Heirlooms are sweeter and more richly flavored than conventional tomatoes. They come in a wide variety of shapes, sizes, and colors, each with it's own unique flavor. They are often more disease-resistant, but have a shorter shelf life than conventional tomatoes. Some cultivars can be prone to cracking. Heirlooms often have a higher water content than conventional tomatoes and are often eaten raw with freshly ground salt and pepper, fresh basil, olive oil, and mozzarella.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed indoors and transplant seedlings outside after hardening off",
+        "spread": 100,
+        "height": 120,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551af6153830380003600100.jpg?1427830287"
+    },
+    {
+        "name": "Fava Bean",
+        "scientific_name": "Vicia faba",
+        "description": "The fava, or broad bean, is a species of flowering plant in the vetch and pea family Fabaceae. Unlike most beans, fava beans thrive in cooler weather and do not require trellising. They should be planted in early spring as soon as the soil can be worked. The broad, leathery pods contain 3-8 beans and grow on stiff stems that can reach heights of 1.8m.  Fava are planted for their edible beans, or as a cover crop to reduce winter erosion and increase nitrogen in the soil. Inoculants can increase yield and nitrogen production. The pods are commonly harvested while young, when they are about 15cm long. Fava beans are eaten in a myriad of ways: raw in salads, grilled, roasted, fried, pureed, and more.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors",
+        "spread": 12,
+        "height": 120,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/59252c5000d55700040000b5.jpg?1495608394"
+    },
+    {
+        "name": "Lima Bean",
+        "scientific_name": "Phaseolus lunatus",
+        "description": "Lima beans have bush and pole varieties. Bush types produce more quickly and create smaller beans. Pole types can grow to 3m high and produce larger seeds. Like all legumes, lima beans can benefit from inoculants. Lima beans are shelled and cooked before eating.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct seed outdoors after soil is at least 24°C, thin to 30cm apart when seedlings are 5cm tall",
+        "spread": 30,
+        "height": 40,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/5930590c0652e10004000002.jpg?1496340743"
+    },
+    {
+        "name": "zucchini / courgette",
+        "scientific_name": "Cucurbita pepo",
+        "description": "Zucchini or courgette is a summer squash which can reach nearly a meter in length, but is usually harvested immature at 15–25 cm.\nAlong with certain other squashes and pumpkins, it belongs to the species Cucurbita pepo. Zucchini can be dark or light green. A related hybrid, the golden zucchini, is a deep yellow or orange color.\nIn a culinary context, zucchini is treated as a vegetable; it is usually cooked and presented as a savory dish or accompaniment. Botanically, zucchinis are fruits, a type of botanical berry called a \"pepo\", being the swollen ovary of the zucchini flower.\n[Description from Wikipedia]",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "seeds",
+        "spread": 75,
+        "height": 2,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/57ea87d12f0606000300009a.jpg?1474987984"
+    },
+    {
+        "name": "Carrot",
+        "scientific_name": "Daucus carota",
+        "description": "The carrot is a root vegetable. It is usually orange in color, but some cultivars are purple, black, red, white, and yellow. The most commonly eaten part of the plant is the taproot, but the greens are sometimes eaten as well. The leaves appear first, and the taproot grows more slowly beneath the soil. Fast-growing cultivars mature within three months of sowing the seed. Slower-maturing cultivars are harvested four months after sowing.",
+        "sun_requirements": "Full Sun",
+        "sowing_method": "Direct Seed, thin to 3cm apart when seedlings are 8cm high",
+        "spread": 3,
+        "height": 10,
+        "image": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/58c312395865650004000000.jpg?1489179191"
+    }
+]
