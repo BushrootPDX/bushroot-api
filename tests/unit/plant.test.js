@@ -1,5 +1,5 @@
 const Plant = require('../../lib/models/plant');
-const { assert } = require('chai');
+require('chai');
 
 describe('plant model', () => {
 
