@@ -19,12 +19,12 @@ describe('auth', () => {
                 .post(url)
                 .send(data)
                 .then(
-                    () => {
-                        throw new Error('status should not be okay');
-                    },
                     res => {
                         assert.equal(res.status, code);
                         assert.equal(res.response.body.error, error);
+                    },
+                    () => {
+                        throw new Error('status should not be okay');
                     }
                 );
         

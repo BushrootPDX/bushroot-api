@@ -1,5 +1,5 @@
 function getErrorHandler(log = console.log) {
-    return function errorHandler(err, req, res, next) {
+    return function errorHandler(err, req, res) {
         let code, error;
 
         if(err.errors) {
